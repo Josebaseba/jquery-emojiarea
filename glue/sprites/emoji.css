@@ -869,9 +869,11 @@
 .sprite-emoji-100,
 .sprite-emoji--1,
 .sprite-emoji-1 {
-            background-image: url('emoji.png');
+            background-image: url('emoji_sm.png');
             background-repeat: no-repeat;
-            display: inline-block;
+            text-decoration: none;
+            border: none;
+            outline: none;
         }
 
         .sprite-emoji-zzz {
