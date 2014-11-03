@@ -1,0 +1,6973 @@
+﻿/* glue: 0.9.4 hash: 3cac1a91ab */
+        .sprite-emoji-zzz,
+.sprite-emoji-zero,
+.sprite-emoji-zap,
+.sprite-emoji-yum,
+.sprite-emoji-yen,
+.sprite-emoji-yellow_heart,
+.sprite-emoji-x,
+.sprite-emoji-wrench,
+.sprite-emoji-worried,
+.sprite-emoji-womens,
+.sprite-emoji-womans_hat,
+.sprite-emoji-womans_clothes,
+.sprite-emoji-woman,
+.sprite-emoji-wolf,
+.sprite-emoji-wink2,
+.sprite-emoji-wink,
+.sprite-emoji-wine_glass,
+.sprite-emoji-wind_chime,
+.sprite-emoji-white_square_button,
+.sprite-emoji-white_square,
+.sprite-emoji-white_flower,
+.sprite-emoji-white_circle,
+.sprite-emoji-white_check_mark,
+.sprite-emoji-wheelchair,
+.sprite-emoji-whale2,
+.sprite-emoji-whale,
+.sprite-emoji-wedding,
+.sprite-emoji-weary,
+.sprite-emoji-wc,
+.sprite-emoji-waxing_gibbous_moon,
+.sprite-emoji-waxing_crescent_moon,
+.sprite-emoji-wavy_dash,
+.sprite-emoji-wave,
+.sprite-emoji-watermelon,
+.sprite-emoji-water_buffalo,
+.sprite-emoji-watch,
+.sprite-emoji-warning,
+.sprite-emoji-waning_gibbous_moon,
+.sprite-emoji-waning_crescent_moon,
+.sprite-emoji-walking,
+.sprite-emoji-vs,
+.sprite-emoji-volcano,
+.sprite-emoji-virgo,
+.sprite-emoji-violin,
+.sprite-emoji-video_game,
+.sprite-emoji-video_camera,
+.sprite-emoji-vibration_mode,
+.sprite-emoji-vhs,
+.sprite-emoji-vertical_traffic_light,
+.sprite-emoji-v,
+.sprite-emoji-us,
+.sprite-emoji-up,
+.sprite-emoji-unlock,
+.sprite-emoji-underage,
+.sprite-emoji-unamused,
+.sprite-emoji-umbrella,
+.sprite-emoji-uk,
+.sprite-emoji-u7a7a,
+.sprite-emoji-u7981,
+.sprite-emoji-u7533,
+.sprite-emoji-u7121,
+.sprite-emoji-u6e80,
+.sprite-emoji-u6709,
+.sprite-emoji-u6708,
+.sprite-emoji-u6307,
+.sprite-emoji-u55b6,
+.sprite-emoji-u5408,
+.sprite-emoji-u5272,
+.sprite-emoji-two_women_holding_hands,
+.sprite-emoji-two_men_holding_hands,
+.sprite-emoji-two_hearts,
+.sprite-emoji-two,
+.sprite-emoji-twisted_rightwards_arrows,
+.sprite-emoji-tv,
+.sprite-emoji-turtle,
+.sprite-emoji-tulip,
+.sprite-emoji-tshirt,
+.sprite-emoji-trumpet,
+.sprite-emoji-truck,
+.sprite-emoji-tropical_fish,
+.sprite-emoji-tropical_drink,
+.sprite-emoji-trophy,
+.sprite-emoji-trollface,
+.sprite-emoji-trolleybus,
+.sprite-emoji-triumph,
+.sprite-emoji-trident,
+.sprite-emoji-triangular_ruler,
+.sprite-emoji-triangular_flag_on_post,
+.sprite-emoji-tram,
+.sprite-emoji-train2,
+.sprite-emoji-train,
+.sprite-emoji-traffic_light,
+.sprite-emoji-tractor,
+.sprite-emoji-tophat,
+.sprite-emoji-top,
+.sprite-emoji-tongue,
+.sprite-emoji-tomato,
+.sprite-emoji-tokyo_tower,
+.sprite-emoji-toilet,
+.sprite-emoji-tm,
+.sprite-emoji-tired_face,
+.sprite-emoji-tiger2,
+.sprite-emoji-tiger,
+.sprite-emoji-ticket,
+.sprite-emoji-thumbsup,
+.sprite-emoji-thumbsdown,
+.sprite-emoji-three,
+.sprite-emoji-thought_balloon,
+.sprite-emoji-tent,
+.sprite-emoji-tennis,
+.sprite-emoji-telescope,
+.sprite-emoji-telephone_receiver,
+.sprite-emoji-telephone,
+.sprite-emoji-tea,
+.sprite-emoji-taxi,
+.sprite-emoji-taurus,
+.sprite-emoji-tangerine,
+.sprite-emoji-tanabata_tree,
+.sprite-emoji-tada,
+.sprite-emoji-syringe,
+.sprite-emoji-symbols,
+.sprite-emoji-swimmer,
+.sprite-emoji-sweet_potato,
+.sprite-emoji-sweat_smile,
+.sprite-emoji-sweat_drops,
+.sprite-emoji-sweat,
+.sprite-emoji-suspension_railway,
+.sprite-emoji-suspect,
+.sprite-emoji-sushi,
+.sprite-emoji-surfer,
+.sprite-emoji-sunrise_over_mountains,
+.sprite-emoji-sunrise,
+.sprite-emoji-sunny,
+.sprite-emoji-sunglasses,
+.sprite-emoji-sunflower,
+.sprite-emoji-sun_with_face,
+.sprite-emoji-stuck_out_tongue_winking_eye,
+.sprite-emoji-stuck_out_tongue_closed_eyes,
+.sprite-emoji-stuck_out_tongue,
+.sprite-emoji-strawberry,
+.sprite-emoji-straight_ruler,
+.sprite-emoji-stew,
+.sprite-emoji-steam_locomotive,
+.sprite-emoji-statue_of_liberty,
+.sprite-emoji-station,
+.sprite-emoji-stars,
+.sprite-emoji-star2,
+.sprite-emoji-star,
+.sprite-emoji-squirrel,
+.sprite-emoji-speedboat,
+.sprite-emoji-speech_balloon,
+.sprite-emoji-speaker,
+.sprite-emoji-speak_no_evil,
+.sprite-emoji-sparkling_heart,
+.sprite-emoji-sparkles,
+.sprite-emoji-sparkler,
+.sprite-emoji-spaghetti,
+.sprite-emoji-spades,
+.sprite-emoji-space_invader,
+.sprite-emoji-sound,
+.sprite-emoji-sos,
+.sprite-emoji-soon,
+.sprite-emoji-soccer,
+.sprite-emoji-sob,
+.sprite-emoji-snowman,
+.sprite-emoji-snowflake,
+.sprite-emoji-snowboarder,
+.sprite-emoji-snake,
+.sprite-emoji-snail,
+.sprite-emoji-smoking,
+.sprite-emoji-smirk_cat,
+.sprite-emoji-smirk,
+.sprite-emoji-smiling_imp,
+.sprite-emoji-smiley_cat,
+.sprite-emoji-smiley,
+.sprite-emoji-smile_cat,
+.sprite-emoji-smile,
+.sprite-emoji-small_red_triangle_down,
+.sprite-emoji-small_red_triangle,
+.sprite-emoji-small_orange_diamond,
+.sprite-emoji-small_blue_diamond,
+.sprite-emoji-slot_machine,
+.sprite-emoji-sleepy,
+.sprite-emoji-sleeping,
+.sprite-emoji-skull,
+.sprite-emoji-ski,
+.sprite-emoji-six_pointed_star,
+.sprite-emoji-six,
+.sprite-emoji-signal_strength,
+.sprite-emoji-shower,
+.sprite-emoji-shoe,
+.sprite-emoji-shit,
+.sprite-emoji-shirt,
+.sprite-emoji-shipit,
+.sprite-emoji-ship,
+.sprite-emoji-shell,
+.sprite-emoji-sheep,
+.sprite-emoji-shaved_ice,
+.sprite-emoji-seven,
+.sprite-emoji-seedling,
+.sprite-emoji-see_no_evil,
+.sprite-emoji-secret,
+.sprite-emoji-seat,
+.sprite-emoji-scroll,
+.sprite-emoji-scream_cat,
+.sprite-emoji-scream,
+.sprite-emoji-scorpius,
+.sprite-emoji-scissors,
+.sprite-emoji-school_satchel,
+.sprite-emoji-school,
+.sprite-emoji-saxophone,
+.sprite-emoji-satisfied,
+.sprite-emoji-satellite,
+.sprite-emoji-santa,
+.sprite-emoji-sandal,
+.sprite-emoji-sake,
+.sprite-emoji-sailboat,
+.sprite-emoji-sagittarius,
+.sprite-emoji-sa,
+.sprite-emoji-running_shirt_with_sash,
+.sprite-emoji-running,
+.sprite-emoji-runner,
+.sprite-emoji-rugby_football,
+.sprite-emoji-ru,
+.sprite-emoji-rowboat,
+.sprite-emoji-round_pushpin,
+.sprite-emoji-rotating_light,
+.sprite-emoji-rose,
+.sprite-emoji-rooster,
+.sprite-emoji-roller_coaster,
+.sprite-emoji-rocket,
+.sprite-emoji-ring,
+.sprite-emoji-rice_scene,
+.sprite-emoji-rice_cracker,
+.sprite-emoji-rice_ball,
+.sprite-emoji-rice,
+.sprite-emoji-ribbon,
+.sprite-emoji-rewind,
+.sprite-emoji-revolving_hearts,
+.sprite-emoji-restroom,
+.sprite-emoji-repeat_one,
+.sprite-emoji-repeat,
+.sprite-emoji-relieved,
+.sprite-emoji-relaxed,
+.sprite-emoji-registered,
+.sprite-emoji-red_circle,
+.sprite-emoji-red_car,
+.sprite-emoji-recycle,
+.sprite-emoji-rat,
+.sprite-emoji-ramen,
+.sprite-emoji-ram,
+.sprite-emoji-raised_hands,
+.sprite-emoji-raised_hand,
+.sprite-emoji-rainbow,
+.sprite-emoji-railway_car,
+.sprite-emoji-rage4,
+.sprite-emoji-rage3,
+.sprite-emoji-rage2,
+.sprite-emoji-rage1,
+.sprite-emoji-rage,
+.sprite-emoji-radio_button,
+.sprite-emoji-radio,
+.sprite-emoji-racehorse,
+.sprite-emoji-rabbit2,
+.sprite-emoji-rabbit,
+.sprite-emoji-question,
+.sprite-emoji-put_litter_in_its_place,
+.sprite-emoji-pushpin,
+.sprite-emoji-purse,
+.sprite-emoji-purple_heart,
+.sprite-emoji-punch,
+.sprite-emoji-princess,
+.sprite-emoji-pray,
+.sprite-emoji-pouting_cat,
+.sprite-emoji-pound,
+.sprite-emoji-poultry_leg,
+.sprite-emoji-pouch,
+.sprite-emoji-potable_water,
+.sprite-emoji-postbox,
+.sprite-emoji-postal_horn,
+.sprite-emoji-post_office,
+.sprite-emoji-poop,
+.sprite-emoji-poodle,
+.sprite-emoji-police_car,
+.sprite-emoji-point_up_2,
+.sprite-emoji-point_up,
+.sprite-emoji-point_right,
+.sprite-emoji-point_left,
+.sprite-emoji-point_down,
+.sprite-emoji-plus1,
+.sprite-emoji-pizza,
+.sprite-emoji-pisces,
+.sprite-emoji-pineapple,
+.sprite-emoji-pill,
+.sprite-emoji-pig_nose,
+.sprite-emoji-pig2,
+.sprite-emoji-pig,
+.sprite-emoji-phone,
+.sprite-emoji-person_with_pouting_face,
+.sprite-emoji-person_with_blond_hair,
+.sprite-emoji-person_frowning,
+.sprite-emoji-persevere,
+.sprite-emoji-performing_arts,
+.sprite-emoji-pensive,
+.sprite-emoji-penguin,
+.sprite-emoji-pencil2,
+.sprite-emoji-pencil,
+.sprite-emoji-pear,
+.sprite-emoji-peach,
+.sprite-emoji-paw_prints,
+.sprite-emoji-passport_control,
+.sprite-emoji-partly_sunny,
+.sprite-emoji-part_alternation_mark,
+.sprite-emoji-parking,
+.sprite-emoji-paperclip,
+.sprite-emoji-panda_face,
+.sprite-emoji-palm_tree,
+.sprite-emoji-pager,
+.sprite-emoji-page_with_curl,
+.sprite-emoji-page_facing_up,
+.sprite-emoji-ox,
+.sprite-emoji-outbox_tray,
+.sprite-emoji-orange_book,
+.sprite-emoji-ophiuchus,
+.sprite-emoji-open_mouth,
+.sprite-emoji-open_hands,
+.sprite-emoji-open_file_folder,
+.sprite-emoji-one,
+.sprite-emoji-oncoming_taxi,
+.sprite-emoji-oncoming_police_car,
+.sprite-emoji-oncoming_bus,
+.sprite-emoji-oncoming_automobile,
+.sprite-emoji-on,
+.sprite-emoji-older_woman,
+.sprite-emoji-older_man,
+.sprite-emoji-ok_woman,
+.sprite-emoji-ok_hand,
+.sprite-emoji-ok,
+.sprite-emoji-office,
+.sprite-emoji-oden,
+.sprite-emoji-octopus,
+.sprite-emoji-octocat,
+.sprite-emoji-ocean,
+.sprite-emoji-o2,
+.sprite-emoji-o,
+.sprite-emoji-nut_and_bolt,
+.sprite-emoji-notes,
+.sprite-emoji-notebook_with_decorative_cover,
+.sprite-emoji-notebook,
+.sprite-emoji-nose,
+.sprite-emoji-non-potable_water,
+.sprite-emoji-no_smoking,
+.sprite-emoji-no_pedestrians,
+.sprite-emoji-no_mouth,
+.sprite-emoji-no_mobile_phones,
+.sprite-emoji-no_good,
+.sprite-emoji-no_entry_sign,
+.sprite-emoji-no_entry,
+.sprite-emoji-no_bicycles,
+.sprite-emoji-no_bell,
+.sprite-emoji-nine,
+.sprite-emoji-ng,
+.sprite-emoji-newspaper,
+.sprite-emoji-new_moon_with_face,
+.sprite-emoji-new_moon,
+.sprite-emoji-new,
+.sprite-emoji-neutral_face,
+.sprite-emoji-negative_squared_cross_mark,
+.sprite-emoji-necktie,
+.sprite-emoji-neckbeard,
+.sprite-emoji-name_badge,
+.sprite-emoji-nail_care,
+.sprite-emoji-mute,
+.sprite-emoji-musical_score,
+.sprite-emoji-musical_note,
+.sprite-emoji-musical_keyboard,
+.sprite-emoji-mushroom,
+.sprite-emoji-muscle,
+.sprite-emoji-moyai,
+.sprite-emoji-movie_camera,
+.sprite-emoji-mouse2,
+.sprite-emoji-mouse,
+.sprite-emoji-mountain_railway,
+.sprite-emoji-mountain_cableway,
+.sprite-emoji-mountain_bicyclist,
+.sprite-emoji-mount_fuji,
+.sprite-emoji-mortar_board,
+.sprite-emoji-moon,
+.sprite-emoji-monorail,
+.sprite-emoji-monkey_face,
+.sprite-emoji-monkey,
+.sprite-emoji-moneybag,
+.sprite-emoji-money_with_wings,
+.sprite-emoji-mobile_phone_off,
+.sprite-emoji-minidisc,
+.sprite-emoji-minibus,
+.sprite-emoji-milky_way,
+.sprite-emoji-microscope,
+.sprite-emoji-microphone,
+.sprite-emoji-metro,
+.sprite-emoji-metal,
+.sprite-emoji-mens,
+.sprite-emoji-memo,
+.sprite-emoji-melon,
+.sprite-emoji-mega,
+.sprite-emoji-meat_on_bone,
+.sprite-emoji-massage,
+.sprite-emoji-mask,
+.sprite-emoji-maple_leaf,
+.sprite-emoji-mans_shoe,
+.sprite-emoji-man_with_turban,
+.sprite-emoji-man_with_gua_pi_mao,
+.sprite-emoji-man,
+.sprite-emoji-mailbox_with_no_mail,
+.sprite-emoji-mailbox_with_mail,
+.sprite-emoji-mailbox_closed,
+.sprite-emoji-mailbox,
+.sprite-emoji-mahjong,
+.sprite-emoji-mag_right,
+.sprite-emoji-mag,
+.sprite-emoji-m,
+.sprite-emoji-low_brightness,
+.sprite-emoji-love_letter,
+.sprite-emoji-love_hotel,
+.sprite-emoji-loudspeaker,
+.sprite-emoji-loop,
+.sprite-emoji-lollipop,
+.sprite-emoji-lock_with_ink_pen,
+.sprite-emoji-lock,
+.sprite-emoji-lipstick,
+.sprite-emoji-lips,
+.sprite-emoji-link,
+.sprite-emoji-light_rail,
+.sprite-emoji-libra,
+.sprite-emoji-leopard,
+.sprite-emoji-leo,
+.sprite-emoji-lemon,
+.sprite-emoji-leftwards_arrow_with_hook,
+.sprite-emoji-left_right_arrow,
+.sprite-emoji-left_luggage,
+.sprite-emoji-ledger,
+.sprite-emoji-leaves,
+.sprite-emoji-laughing,
+.sprite-emoji-last_quarter_moon_with_face,
+.sprite-emoji-last_quarter_moon,
+.sprite-emoji-large_orange_diamond,
+.sprite-emoji-large_blue_diamond,
+.sprite-emoji-large_blue_circle,
+.sprite-emoji-kr,
+.sprite-emoji-koko,
+.sprite-emoji-koala,
+.sprite-emoji-kissing_smiling_eyes,
+.sprite-emoji-kissing_heart,
+.sprite-emoji-kissing_face,
+.sprite-emoji-kissing_closed_eyes,
+.sprite-emoji-kissing_cat,
+.sprite-emoji-kissing,
+.sprite-emoji-kiss,
+.sprite-emoji-kimono,
+.sprite-emoji-keycap_ten,
+.sprite-emoji-key,
+.sprite-emoji-jp,
+.sprite-emoji-joy_cat,
+.sprite-emoji-joy,
+.sprite-emoji-jeans,
+.sprite-emoji-japanese_ogre,
+.sprite-emoji-japanese_goblin,
+.sprite-emoji-japanese_castle,
+.sprite-emoji-japan,
+.sprite-emoji-jack_o_lantern,
+.sprite-emoji-izakaya_lantern,
+.sprite-emoji-it,
+.sprite-emoji-iphone,
+.sprite-emoji-interrobang,
+.sprite-emoji-innocent,
+.sprite-emoji-information_source,
+.sprite-emoji-information_desk_person,
+.sprite-emoji-incoming_envelope,
+.sprite-emoji-inbox_tray,
+.sprite-emoji-imp,
+.sprite-emoji-ideograph_advantage,
+.sprite-emoji-id,
+.sprite-emoji-icecream,
+.sprite-emoji-ice_cream,
+.sprite-emoji-hushed,
+.sprite-emoji-hurtrealbad,
+.sprite-emoji-house_with_garden,
+.sprite-emoji-house,
+.sprite-emoji-hourglass_flowing_sand,
+.sprite-emoji-hourglass,
+.sprite-emoji-hotsprings,
+.sprite-emoji-hotel,
+.sprite-emoji-hospital,
+.sprite-emoji-horse_racing,
+.sprite-emoji-horse,
+.sprite-emoji-honeybee,
+.sprite-emoji-honey_pot,
+.sprite-emoji-hocho,
+.sprite-emoji-high_heel,
+.sprite-emoji-high_brightness,
+.sprite-emoji-hibiscus,
+.sprite-emoji-herb,
+.sprite-emoji-helicopter,
+.sprite-emoji-heavy_plus_sign,
+.sprite-emoji-heavy_multiplication_x,
+.sprite-emoji-heavy_minus_sign,
+.sprite-emoji-heavy_exclamation_mark,
+.sprite-emoji-heavy_dollar_sign,
+.sprite-emoji-heavy_division_sign,
+.sprite-emoji-heavy_check_mark,
+.sprite-emoji-hearts,
+.sprite-emoji-heartpulse,
+.sprite-emoji-heartbeat,
+.sprite-emoji-heart_eyes_cat,
+.sprite-emoji-heart_eyes,
+.sprite-emoji-heart_decoration,
+.sprite-emoji-heart,
+.sprite-emoji-hear_no_evil,
+.sprite-emoji-headphones,
+.sprite-emoji-hatching_chick,
+.sprite-emoji-hatched_chick,
+.sprite-emoji-hash,
+.sprite-emoji-hankey,
+.sprite-emoji-handbag,
+.sprite-emoji-hand,
+.sprite-emoji-hamster,
+.sprite-emoji-hammer,
+.sprite-emoji-hamburger,
+.sprite-emoji-haircut,
+.sprite-emoji-gun,
+.sprite-emoji-guitar,
+.sprite-emoji-guardsman,
+.sprite-emoji-grinning,
+.sprite-emoji-grin,
+.sprite-emoji-grimacing,
+.sprite-emoji-grey_question,
+.sprite-emoji-grey_exclamation,
+.sprite-emoji-green_heart,
+.sprite-emoji-green_book,
+.sprite-emoji-green_apple,
+.sprite-emoji-grapes,
+.sprite-emoji-golf,
+.sprite-emoji-godmode,
+.sprite-emoji-goberserk,
+.sprite-emoji-goat,
+.sprite-emoji-globe_with_meridians,
+.sprite-emoji-girl,
+.sprite-emoji-gift_heart,
+.sprite-emoji-gift,
+.sprite-emoji-ghost,
+.sprite-emoji-gemini,
+.sprite-emoji-gem,
+.sprite-emoji-gb,
+.sprite-emoji-game_die,
+.sprite-emoji-full_moon_with_face,
+.sprite-emoji-full_moon,
+.sprite-emoji-fuelpump,
+.sprite-emoji-frowning,
+.sprite-emoji-frog,
+.sprite-emoji-fries,
+.sprite-emoji-fried_shrimp,
+.sprite-emoji-free,
+.sprite-emoji-fr,
+.sprite-emoji-four_leaf_clover,
+.sprite-emoji-four,
+.sprite-emoji-fountain,
+.sprite-emoji-fork_and_knife,
+.sprite-emoji-football,
+.sprite-emoji-foggy,
+.sprite-emoji-flushed,
+.sprite-emoji-flower_playing_cards,
+.sprite-emoji-floppy_disk,
+.sprite-emoji-flashlight,
+.sprite-emoji-flags,
+.sprite-emoji-five,
+.sprite-emoji-fist,
+.sprite-emoji-fishing_pole_and_fish,
+.sprite-emoji-fish_cake,
+.sprite-emoji-fish,
+.sprite-emoji-first_quarter_moon_with_face,
+.sprite-emoji-first_quarter_moon,
+.sprite-emoji-fireworks,
+.sprite-emoji-fire_engine,
+.sprite-emoji-fire,
+.sprite-emoji-finnadie,
+.sprite-emoji-file_folder,
+.sprite-emoji-ferris_wheel,
+.sprite-emoji-feet,
+.sprite-emoji-feelsgood,
+.sprite-emoji-fearful,
+.sprite-emoji-fax,
+.sprite-emoji-fast_forward,
+.sprite-emoji-family,
+.sprite-emoji-fallen_leaf,
+.sprite-emoji-factory,
+.sprite-emoji-facepunch,
+.sprite-emoji-eyes,
+.sprite-emoji-eyeglasses,
+.sprite-emoji-expressionless,
+.sprite-emoji-exclamation,
+.sprite-emoji-evergreen_tree,
+.sprite-emoji-european_post_office,
+.sprite-emoji-european_castle,
+.sprite-emoji-euro,
+.sprite-emoji-es,
+.sprite-emoji-envelope,
+.sprite-emoji-end,
+.sprite-emoji-email,
+.sprite-emoji-elephant,
+.sprite-emoji-electric_plug,
+.sprite-emoji-eight_spoked_asterisk,
+.sprite-emoji-eight_pointed_black_star,
+.sprite-emoji-eight,
+.sprite-emoji-eggplant,
+.sprite-emoji-egg,
+.sprite-emoji-earth_asia,
+.sprite-emoji-earth_americas,
+.sprite-emoji-earth_africa,
+.sprite-emoji-ear_of_rice,
+.sprite-emoji-ear,
+.sprite-emoji-e-mail,
+.sprite-emoji-dvd,
+.sprite-emoji-droplet,
+.sprite-emoji-dromedary_camel,
+.sprite-emoji-dress,
+.sprite-emoji-dragon_face,
+.sprite-emoji-dragon,
+.sprite-emoji-doughnut,
+.sprite-emoji-door,
+.sprite-emoji-dolphin,
+.sprite-emoji-dolls,
+.sprite-emoji-dollar,
+.sprite-emoji-dog2,
+.sprite-emoji-dog,
+.sprite-emoji-do_not_litter,
+.sprite-emoji-dizzy_face,
+.sprite-emoji-dizzy,
+.sprite-emoji-disappointed,
+.sprite-emoji-diamonds,
+.sprite-emoji-diamond_shape_with_a_dot_inside,
+.sprite-emoji-department_store,
+.sprite-emoji-deciduous_tree,
+.sprite-emoji-de,
+.sprite-emoji-date,
+.sprite-emoji-dash,
+.sprite-emoji-dart,
+.sprite-emoji-dango,
+.sprite-emoji-dancers,
+.sprite-emoji-dancer,
+.sprite-emoji-cyclone,
+.sprite-emoji-customs,
+.sprite-emoji-custard,
+.sprite-emoji-curry,
+.sprite-emoji-currency_exchange,
+.sprite-emoji-curly_loop,
+.sprite-emoji-cupid,
+.sprite-emoji-crystal_ball,
+.sprite-emoji-crying_cat_face,
+.sprite-emoji-cry,
+.sprite-emoji-crown,
+.sprite-emoji-crossed_flags,
+.sprite-emoji-crocodile,
+.sprite-emoji-credit_card,
+.sprite-emoji-cow2,
+.sprite-emoji-cow,
+.sprite-emoji-couplekiss,
+.sprite-emoji-couple_with_heart,
+.sprite-emoji-couple,
+.sprite-emoji-corn,
+.sprite-emoji-copyright,
+.sprite-emoji-cop,
+.sprite-emoji-cool,
+.sprite-emoji-cookie,
+.sprite-emoji-convenience_store,
+.sprite-emoji-construction_worker,
+.sprite-emoji-construction,
+.sprite-emoji-congratulations,
+.sprite-emoji-confused,
+.sprite-emoji-confounded,
+.sprite-emoji-confetti_ball,
+.sprite-emoji-computer,
+.sprite-emoji-collision,
+.sprite-emoji-cold_sweat,
+.sprite-emoji-coffee,
+.sprite-emoji-cocktail,
+.sprite-emoji-cn,
+.sprite-emoji-clubs,
+.sprite-emoji-cloud,
+.sprite-emoji-closed_umbrella,
+.sprite-emoji-closed_lock_with_key,
+.sprite-emoji-closed_book,
+.sprite-emoji-clock930,
+.sprite-emoji-clock9,
+.sprite-emoji-clock830,
+.sprite-emoji-clock8,
+.sprite-emoji-clock730,
+.sprite-emoji-clock7,
+.sprite-emoji-clock630,
+.sprite-emoji-clock6,
+.sprite-emoji-clock530,
+.sprite-emoji-clock5,
+.sprite-emoji-clock430,
+.sprite-emoji-clock4,
+.sprite-emoji-clock330,
+.sprite-emoji-clock3,
+.sprite-emoji-clock230,
+.sprite-emoji-clock2,
+.sprite-emoji-clock130,
+.sprite-emoji-clock1230,
+.sprite-emoji-clock12,
+.sprite-emoji-clock1130,
+.sprite-emoji-clock11,
+.sprite-emoji-clock1030,
+.sprite-emoji-clock10,
+.sprite-emoji-clock1,
+.sprite-emoji-clipboard,
+.sprite-emoji-clapper,
+.sprite-emoji-clap,
+.sprite-emoji-cl,
+.sprite-emoji-city_sunset,
+.sprite-emoji-city_sunrise,
+.sprite-emoji-circus_tent,
+.sprite-emoji-cinema,
+.sprite-emoji-church,
+.sprite-emoji-christmas_tree,
+.sprite-emoji-chocolate_bar,
+.sprite-emoji-children_crossing,
+.sprite-emoji-chicken,
+.sprite-emoji-chestnut,
+.sprite-emoji-cherry_blossom,
+.sprite-emoji-cherries,
+.sprite-emoji-checkered_flag,
+.sprite-emoji-chart_with_upwards_trend,
+.sprite-emoji-chart_with_downwards_trend,
+.sprite-emoji-chart,
+.sprite-emoji-cd,
+.sprite-emoji-cat2,
+.sprite-emoji-cat,
+.sprite-emoji-carousel_horse,
+.sprite-emoji-card_index,
+.sprite-emoji-car,
+.sprite-emoji-capricorn,
+.sprite-emoji-capital_abcd,
+.sprite-emoji-candy,
+.sprite-emoji-cancer,
+.sprite-emoji-camera,
+.sprite-emoji-camel,
+.sprite-emoji-calling,
+.sprite-emoji-calendar,
+.sprite-emoji-cake,
+.sprite-emoji-cactus,
+.sprite-emoji-busts_in_silhouette,
+.sprite-emoji-bust_in_silhouette,
+.sprite-emoji-busstop,
+.sprite-emoji-bus,
+.sprite-emoji-bullettrain_side,
+.sprite-emoji-bullettrain_front,
+.sprite-emoji-bulb,
+.sprite-emoji-bug,
+.sprite-emoji-broken_heart,
+.sprite-emoji-briefcase,
+.sprite-emoji-bridge_at_night,
+.sprite-emoji-bride_with_veil,
+.sprite-emoji-bread,
+.sprite-emoji-boy,
+.sprite-emoji-bowtie,
+.sprite-emoji-bowling,
+.sprite-emoji-bow,
+.sprite-emoji-bouquet,
+.sprite-emoji-boot,
+.sprite-emoji-boom,
+.sprite-emoji-books,
+.sprite-emoji-bookmark_tabs,
+.sprite-emoji-bookmark,
+.sprite-emoji-book,
+.sprite-emoji-bomb,
+.sprite-emoji-boat,
+.sprite-emoji-boar,
+.sprite-emoji-blush,
+.sprite-emoji-blue_heart,
+.sprite-emoji-blue_car,
+.sprite-emoji-blue_book,
+.sprite-emoji-blowfish,
+.sprite-emoji-blossom,
+.sprite-emoji-black_square_button,
+.sprite-emoji-black_square,
+.sprite-emoji-black_nib,
+.sprite-emoji-black_joker,
+.sprite-emoji-black_circle,
+.sprite-emoji-birthday,
+.sprite-emoji-bird,
+.sprite-emoji-bikini,
+.sprite-emoji-bike,
+.sprite-emoji-bicyclist,
+.sprite-emoji-bento,
+.sprite-emoji-bell,
+.sprite-emoji-beginner,
+.sprite-emoji-beetle,
+.sprite-emoji-beers,
+.sprite-emoji-beer,
+.sprite-emoji-bee,
+.sprite-emoji-bear,
+.sprite-emoji-battery,
+.sprite-emoji-bathtub,
+.sprite-emoji-bath,
+.sprite-emoji-basketball,
+.sprite-emoji-baseball,
+.sprite-emoji-barber,
+.sprite-emoji-bar_chart,
+.sprite-emoji-bank,
+.sprite-emoji-bangbang,
+.sprite-emoji-banana,
+.sprite-emoji-bamboo,
+.sprite-emoji-ballot_box_with_check,
+.sprite-emoji-balloon,
+.sprite-emoji-baggage_claim,
+.sprite-emoji-baby_symbol,
+.sprite-emoji-baby_chick,
+.sprite-emoji-baby_bottle,
+.sprite-emoji-baby,
+.sprite-emoji-b,
+.sprite-emoji-atm,
+.sprite-emoji-astonished,
+.sprite-emoji-articulated_lorry,
+.sprite-emoji-art,
+.sprite-emoji-arrows_counterclockwise,
+.sprite-emoji-arrows_clockwise,
+.sprite-emoji-arrow_upper_right,
+.sprite-emoji-arrow_upper_left,
+.sprite-emoji-arrow_up_small,
+.sprite-emoji-arrow_up_down,
+.sprite-emoji-arrow_up,
+.sprite-emoji-arrow_right_hook,
+.sprite-emoji-arrow_right,
+.sprite-emoji-arrow_lower_right,
+.sprite-emoji-arrow_lower_left,
+.sprite-emoji-arrow_left,
+.sprite-emoji-arrow_heading_up,
+.sprite-emoji-arrow_heading_down,
+.sprite-emoji-arrow_forward,
+.sprite-emoji-arrow_down_small,
+.sprite-emoji-arrow_down,
+.sprite-emoji-arrow_double_up,
+.sprite-emoji-arrow_double_down,
+.sprite-emoji-arrow_backward,
+.sprite-emoji-aries,
+.sprite-emoji-aquarius,
+.sprite-emoji-apple,
+.sprite-emoji-ant,
+.sprite-emoji-anguished,
+.sprite-emoji-angry,
+.sprite-emoji-anger,
+.sprite-emoji-angel,
+.sprite-emoji-anchor,
+.sprite-emoji-ambulance,
+.sprite-emoji-alien,
+.sprite-emoji-alarm_clock,
+.sprite-emoji-airplane,
+.sprite-emoji-aerial_tramway,
+.sprite-emoji-accept,
+.sprite-emoji-abcd,
+.sprite-emoji-abc,
+.sprite-emoji-ab,
+.sprite-emoji-a,
+.sprite-emoji-8ball,
+.sprite-emoji-1234,
+.sprite-emoji-109,
+.sprite-emoji-100,
+.sprite-emoji--1,
+.sprite-emoji-1 {
+            background-image: url('emoji.png');
+            background-repeat: no-repeat;
+            display: inline-block;
+        }
+
+        .sprite-emoji-zzz {
+            background-position: 0 0;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-zero {
+            background-position: -30px 0;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-zap {
+            background-position: 0 -30px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-yum {
+            background-position: -30px -30px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-yen {
+            background-position: -60px 0;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-yellow_heart {
+            background-position: -60px -30px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-x {
+            background-position: 0 -60px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-wrench {
+            background-position: -30px -60px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-worried {
+            background-position: -60px -60px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-womens {
+            background-position: -90px 0;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-womans_hat {
+            background-position: -90px -30px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-womans_clothes {
+            background-position: -90px -60px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-woman {
+            background-position: 0 -90px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-wolf {
+            background-position: -30px -90px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-wink2 {
+            background-position: -60px -90px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-wink {
+            background-position: -90px -90px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-wine_glass {
+            background-position: -120px 0;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-wind_chime {
+            background-position: -120px -30px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-white_square_button {
+            background-position: -120px -60px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-white_square {
+            background-position: -120px -90px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-white_flower {
+            background-position: 0 -120px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-white_circle {
+            background-position: -30px -120px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-white_check_mark {
+            background-position: -60px -120px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-wheelchair {
+            background-position: -90px -120px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-whale2 {
+            background-position: -120px -120px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-whale {
+            background-position: -150px 0;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-wedding {
+            background-position: -150px -30px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-weary {
+            background-position: -150px -60px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-wc {
+            background-position: -150px -90px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-waxing_gibbous_moon {
+            background-position: -150px -120px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-waxing_crescent_moon {
+            background-position: 0 -150px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-wavy_dash {
+            background-position: -30px -150px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-wave {
+            background-position: -60px -150px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-watermelon {
+            background-position: -90px -150px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-water_buffalo {
+            background-position: -120px -150px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-watch {
+            background-position: -150px -150px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-warning {
+            background-position: -180px 0;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-waning_gibbous_moon {
+            background-position: -180px -30px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-waning_crescent_moon {
+            background-position: -180px -60px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-walking {
+            background-position: -180px -90px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-vs {
+            background-position: -180px -120px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-volcano {
+            background-position: -180px -150px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-virgo {
+            background-position: 0 -180px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-violin {
+            background-position: -30px -180px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-video_game {
+            background-position: -60px -180px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-video_camera {
+            background-position: -90px -180px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-vibration_mode {
+            background-position: -120px -180px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-vhs {
+            background-position: -150px -180px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-vertical_traffic_light {
+            background-position: -180px -180px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-v {
+            background-position: -210px 0;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-us {
+            background-position: -210px -30px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-up {
+            background-position: -210px -60px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-unlock {
+            background-position: -210px -90px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-underage {
+            background-position: -210px -120px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-unamused {
+            background-position: -210px -150px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-umbrella {
+            background-position: -210px -180px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-uk {
+            background-position: 0 -210px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-u7a7a {
+            background-position: -30px -210px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-u7981 {
+            background-position: -60px -210px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-u7533 {
+            background-position: -90px -210px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-u7121 {
+            background-position: -120px -210px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-u6e80 {
+            background-position: -150px -210px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-u6709 {
+            background-position: -180px -210px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-u6708 {
+            background-position: -210px -210px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-u6307 {
+            background-position: -240px 0;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-u55b6 {
+            background-position: -240px -30px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-u5408 {
+            background-position: -240px -60px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-u5272 {
+            background-position: -240px -90px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-two_women_holding_hands {
+            background-position: -240px -120px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-two_men_holding_hands {
+            background-position: -240px -150px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-two_hearts {
+            background-position: -240px -180px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-two {
+            background-position: -240px -210px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-twisted_rightwards_arrows {
+            background-position: 0 -240px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-tv {
+            background-position: -30px -240px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-turtle {
+            background-position: -60px -240px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-tulip {
+            background-position: -90px -240px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-tshirt {
+            background-position: -120px -240px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-trumpet {
+            background-position: -150px -240px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-truck {
+            background-position: -180px -240px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-tropical_fish {
+            background-position: -210px -240px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-tropical_drink {
+            background-position: -240px -240px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-trophy {
+            background-position: -270px 0;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-trollface {
+            background-position: -270px -30px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-trolleybus {
+            background-position: -270px -60px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-triumph {
+            background-position: -270px -90px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-trident {
+            background-position: -270px -120px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-triangular_ruler {
+            background-position: -270px -150px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-triangular_flag_on_post {
+            background-position: -270px -180px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-tram {
+            background-position: -270px -210px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-train2 {
+            background-position: -270px -240px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-train {
+            background-position: 0 -270px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-traffic_light {
+            background-position: -30px -270px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-tractor {
+            background-position: -60px -270px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-tophat {
+            background-position: -90px -270px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-top {
+            background-position: -120px -270px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-tongue {
+            background-position: -150px -270px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-tomato {
+            background-position: -180px -270px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-tokyo_tower {
+            background-position: -210px -270px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-toilet {
+            background-position: -240px -270px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-tm {
+            background-position: -270px -270px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-tired_face {
+            background-position: -300px 0;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-tiger2 {
+            background-position: -300px -30px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-tiger {
+            background-position: -300px -60px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-ticket {
+            background-position: -300px -90px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-thumbsup {
+            background-position: -300px -120px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-thumbsdown {
+            background-position: -300px -150px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-three {
+            background-position: -300px -180px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-thought_balloon {
+            background-position: -300px -210px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-tent {
+            background-position: -300px -240px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-tennis {
+            background-position: -300px -270px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-telescope {
+            background-position: 0 -300px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-telephone_receiver {
+            background-position: -30px -300px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-telephone {
+            background-position: -60px -300px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-tea {
+            background-position: -90px -300px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-taxi {
+            background-position: -120px -300px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-taurus {
+            background-position: -150px -300px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-tangerine {
+            background-position: -180px -300px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-tanabata_tree {
+            background-position: -210px -300px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-tada {
+            background-position: -240px -300px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-syringe {
+            background-position: -270px -300px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-symbols {
+            background-position: -300px -300px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-swimmer {
+            background-position: -330px 0;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-sweet_potato {
+            background-position: -330px -30px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-sweat_smile {
+            background-position: -330px -60px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-sweat_drops {
+            background-position: -330px -90px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-sweat {
+            background-position: -330px -120px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-suspension_railway {
+            background-position: -330px -150px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-suspect {
+            background-position: -330px -180px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-sushi {
+            background-position: -330px -210px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-surfer {
+            background-position: -330px -240px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-sunrise_over_mountains {
+            background-position: -330px -270px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-sunrise {
+            background-position: -330px -300px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-sunny {
+            background-position: 0 -330px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-sunglasses {
+            background-position: -30px -330px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-sunflower {
+            background-position: -60px -330px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-sun_with_face {
+            background-position: -90px -330px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-stuck_out_tongue_winking_eye {
+            background-position: -120px -330px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-stuck_out_tongue_closed_eyes {
+            background-position: -150px -330px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-stuck_out_tongue {
+            background-position: -180px -330px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-strawberry {
+            background-position: -210px -330px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-straight_ruler {
+            background-position: -240px -330px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-stew {
+            background-position: -270px -330px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-steam_locomotive {
+            background-position: -300px -330px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-statue_of_liberty {
+            background-position: -330px -330px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-station {
+            background-position: -360px 0;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-stars {
+            background-position: -360px -30px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-star2 {
+            background-position: -360px -60px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-star {
+            background-position: -360px -90px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-squirrel {
+            background-position: -360px -120px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-speedboat {
+            background-position: -360px -150px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-speech_balloon {
+            background-position: -360px -180px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-speaker {
+            background-position: -360px -210px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-speak_no_evil {
+            background-position: -360px -240px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-sparkling_heart {
+            background-position: -360px -270px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-sparkles {
+            background-position: -360px -300px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-sparkler {
+            background-position: -360px -330px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-spaghetti {
+            background-position: 0 -360px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-spades {
+            background-position: -30px -360px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-space_invader {
+            background-position: -60px -360px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-sound {
+            background-position: -90px -360px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-sos {
+            background-position: -120px -360px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-soon {
+            background-position: -150px -360px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-soccer {
+            background-position: -180px -360px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-sob {
+            background-position: -210px -360px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-snowman {
+            background-position: -240px -360px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-snowflake {
+            background-position: -270px -360px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-snowboarder {
+            background-position: -300px -360px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-snake {
+            background-position: -330px -360px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-snail {
+            background-position: -360px -360px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-smoking {
+            background-position: -390px 0;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-smirk_cat {
+            background-position: -390px -30px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-smirk {
+            background-position: -390px -60px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-smiling_imp {
+            background-position: -390px -90px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-smiley_cat {
+            background-position: -390px -120px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-smiley {
+            background-position: -390px -150px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-smile_cat {
+            background-position: -390px -180px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-smile {
+            background-position: -390px -210px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-small_red_triangle_down {
+            background-position: -390px -240px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-small_red_triangle {
+            background-position: -390px -270px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-small_orange_diamond {
+            background-position: -390px -300px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-small_blue_diamond {
+            background-position: -390px -330px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-slot_machine {
+            background-position: -390px -360px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-sleepy {
+            background-position: 0 -390px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-sleeping {
+            background-position: -30px -390px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-skull {
+            background-position: -60px -390px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-ski {
+            background-position: -90px -390px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-six_pointed_star {
+            background-position: -120px -390px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-six {
+            background-position: -150px -390px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-signal_strength {
+            background-position: -180px -390px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-shower {
+            background-position: -210px -390px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-shoe {
+            background-position: -240px -390px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-shit {
+            background-position: -270px -390px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-shirt {
+            background-position: -300px -390px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-shipit {
+            background-position: -330px -390px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-ship {
+            background-position: -360px -390px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-shell {
+            background-position: -390px -390px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-sheep {
+            background-position: -420px 0;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-shaved_ice {
+            background-position: -420px -30px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-seven {
+            background-position: -420px -60px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-seedling {
+            background-position: -420px -90px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-see_no_evil {
+            background-position: -420px -120px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-secret {
+            background-position: -420px -150px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-seat {
+            background-position: -420px -180px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-scroll {
+            background-position: -420px -210px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-scream_cat {
+            background-position: -420px -240px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-scream {
+            background-position: -420px -270px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-scorpius {
+            background-position: -420px -300px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-scissors {
+            background-position: -420px -330px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-school_satchel {
+            background-position: -420px -360px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-school {
+            background-position: -420px -390px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-saxophone {
+            background-position: 0 -420px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-satisfied {
+            background-position: -30px -420px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-satellite {
+            background-position: -60px -420px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-santa {
+            background-position: -90px -420px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-sandal {
+            background-position: -120px -420px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-sake {
+            background-position: -150px -420px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-sailboat {
+            background-position: -180px -420px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-sagittarius {
+            background-position: -210px -420px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-sa {
+            background-position: -240px -420px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-running_shirt_with_sash {
+            background-position: -270px -420px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-running {
+            background-position: -300px -420px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-runner {
+            background-position: -330px -420px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-rugby_football {
+            background-position: -360px -420px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-ru {
+            background-position: -390px -420px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-rowboat {
+            background-position: -420px -420px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-round_pushpin {
+            background-position: -450px 0;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-rotating_light {
+            background-position: -450px -30px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-rose {
+            background-position: -450px -60px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-rooster {
+            background-position: -450px -90px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-roller_coaster {
+            background-position: -450px -120px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-rocket {
+            background-position: -450px -150px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-ring {
+            background-position: -450px -180px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-rice_scene {
+            background-position: -450px -210px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-rice_cracker {
+            background-position: -450px -240px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-rice_ball {
+            background-position: -450px -270px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-rice {
+            background-position: -450px -300px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-ribbon {
+            background-position: -450px -330px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-rewind {
+            background-position: -450px -360px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-revolving_hearts {
+            background-position: -450px -390px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-restroom {
+            background-position: -450px -420px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-repeat_one {
+            background-position: 0 -450px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-repeat {
+            background-position: -30px -450px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-relieved {
+            background-position: -60px -450px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-relaxed {
+            background-position: -90px -450px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-registered {
+            background-position: -120px -450px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-red_circle {
+            background-position: -150px -450px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-red_car {
+            background-position: -180px -450px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-recycle {
+            background-position: -210px -450px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-rat {
+            background-position: -240px -450px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-ramen {
+            background-position: -270px -450px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-ram {
+            background-position: -300px -450px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-raised_hands {
+            background-position: -330px -450px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-raised_hand {
+            background-position: -360px -450px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-rainbow {
+            background-position: -390px -450px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-railway_car {
+            background-position: -420px -450px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-rage4 {
+            background-position: -450px -450px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-rage3 {
+            background-position: -480px 0;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-rage2 {
+            background-position: -480px -30px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-rage1 {
+            background-position: -480px -60px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-rage {
+            background-position: -480px -90px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-radio_button {
+            background-position: -480px -120px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-radio {
+            background-position: -480px -150px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-racehorse {
+            background-position: -480px -180px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-rabbit2 {
+            background-position: -480px -210px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-rabbit {
+            background-position: -480px -240px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-question {
+            background-position: -480px -270px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-put_litter_in_its_place {
+            background-position: -480px -300px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-pushpin {
+            background-position: -480px -330px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-purse {
+            background-position: -480px -360px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-purple_heart {
+            background-position: -480px -390px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-punch {
+            background-position: -480px -420px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-princess {
+            background-position: -480px -450px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-pray {
+            background-position: 0 -480px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-pouting_cat {
+            background-position: -30px -480px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-pound {
+            background-position: -60px -480px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-poultry_leg {
+            background-position: -90px -480px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-pouch {
+            background-position: -120px -480px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-potable_water {
+            background-position: -150px -480px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-postbox {
+            background-position: -180px -480px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-postal_horn {
+            background-position: -210px -480px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-post_office {
+            background-position: -240px -480px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-poop {
+            background-position: -270px -480px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-poodle {
+            background-position: -300px -480px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-police_car {
+            background-position: -330px -480px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-point_up_2 {
+            background-position: -360px -480px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-point_up {
+            background-position: -390px -480px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-point_right {
+            background-position: -420px -480px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-point_left {
+            background-position: -450px -480px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-point_down {
+            background-position: -480px -480px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-plus1 {
+            background-position: -510px 0;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-pizza {
+            background-position: -510px -30px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-pisces {
+            background-position: -510px -60px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-pineapple {
+            background-position: -510px -90px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-pill {
+            background-position: -510px -120px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-pig_nose {
+            background-position: -510px -150px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-pig2 {
+            background-position: -510px -180px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-pig {
+            background-position: -510px -210px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-phone {
+            background-position: -510px -240px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-person_with_pouting_face {
+            background-position: -510px -270px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-person_with_blond_hair {
+            background-position: -510px -300px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-person_frowning {
+            background-position: -510px -330px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-persevere {
+            background-position: -510px -360px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-performing_arts {
+            background-position: -510px -390px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-pensive {
+            background-position: -510px -420px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-penguin {
+            background-position: -510px -450px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-pencil2 {
+            background-position: -510px -480px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-pencil {
+            background-position: 0 -510px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-pear {
+            background-position: -30px -510px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-peach {
+            background-position: -60px -510px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-paw_prints {
+            background-position: -90px -510px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-passport_control {
+            background-position: -120px -510px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-partly_sunny {
+            background-position: -150px -510px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-part_alternation_mark {
+            background-position: -180px -510px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-parking {
+            background-position: -210px -510px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-paperclip {
+            background-position: -240px -510px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-panda_face {
+            background-position: -270px -510px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-palm_tree {
+            background-position: -300px -510px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-pager {
+            background-position: -330px -510px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-page_with_curl {
+            background-position: -360px -510px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-page_facing_up {
+            background-position: -390px -510px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-ox {
+            background-position: -420px -510px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-outbox_tray {
+            background-position: -450px -510px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-orange_book {
+            background-position: -480px -510px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-ophiuchus {
+            background-position: -510px -510px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-open_mouth {
+            background-position: -540px 0;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-open_hands {
+            background-position: -540px -30px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-open_file_folder {
+            background-position: -540px -60px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-one {
+            background-position: -540px -90px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-oncoming_taxi {
+            background-position: -540px -120px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-oncoming_police_car {
+            background-position: -540px -150px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-oncoming_bus {
+            background-position: -540px -180px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-oncoming_automobile {
+            background-position: -540px -210px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-on {
+            background-position: -540px -240px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-older_woman {
+            background-position: -540px -270px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-older_man {
+            background-position: -540px -300px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-ok_woman {
+            background-position: -540px -330px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-ok_hand {
+            background-position: -540px -360px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-ok {
+            background-position: -540px -390px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-office {
+            background-position: -540px -420px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-oden {
+            background-position: -540px -450px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-octopus {
+            background-position: -540px -480px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-octocat {
+            background-position: -540px -510px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-ocean {
+            background-position: 0 -540px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-o2 {
+            background-position: -30px -540px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-o {
+            background-position: -60px -540px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-nut_and_bolt {
+            background-position: -90px -540px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-notes {
+            background-position: -120px -540px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-notebook_with_decorative_cover {
+            background-position: -150px -540px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-notebook {
+            background-position: -180px -540px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-nose {
+            background-position: -210px -540px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-non-potable_water {
+            background-position: -240px -540px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-no_smoking {
+            background-position: -270px -540px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-no_pedestrians {
+            background-position: -300px -540px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-no_mouth {
+            background-position: -330px -540px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-no_mobile_phones {
+            background-position: -360px -540px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-no_good {
+            background-position: -390px -540px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-no_entry_sign {
+            background-position: -420px -540px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-no_entry {
+            background-position: -450px -540px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-no_bicycles {
+            background-position: -480px -540px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-no_bell {
+            background-position: -510px -540px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-nine {
+            background-position: -540px -540px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-ng {
+            background-position: -570px 0;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-newspaper {
+            background-position: -570px -30px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-new_moon_with_face {
+            background-position: -570px -60px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-new_moon {
+            background-position: -570px -90px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-new {
+            background-position: -570px -120px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-neutral_face {
+            background-position: -570px -150px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-negative_squared_cross_mark {
+            background-position: -570px -180px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-necktie {
+            background-position: -570px -210px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-neckbeard {
+            background-position: -570px -240px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-name_badge {
+            background-position: -570px -270px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-nail_care {
+            background-position: -570px -300px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-mute {
+            background-position: -570px -330px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-musical_score {
+            background-position: -570px -360px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-musical_note {
+            background-position: -570px -390px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-musical_keyboard {
+            background-position: -570px -420px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-mushroom {
+            background-position: -570px -450px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-muscle {
+            background-position: -570px -480px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-moyai {
+            background-position: -570px -510px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-movie_camera {
+            background-position: -570px -540px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-mouse2 {
+            background-position: 0 -570px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-mouse {
+            background-position: -30px -570px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-mountain_railway {
+            background-position: -60px -570px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-mountain_cableway {
+            background-position: -90px -570px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-mountain_bicyclist {
+            background-position: -120px -570px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-mount_fuji {
+            background-position: -150px -570px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-mortar_board {
+            background-position: -180px -570px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-moon {
+            background-position: -210px -570px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-monorail {
+            background-position: -240px -570px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-monkey_face {
+            background-position: -270px -570px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-monkey {
+            background-position: -300px -570px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-moneybag {
+            background-position: -330px -570px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-money_with_wings {
+            background-position: -360px -570px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-mobile_phone_off {
+            background-position: -390px -570px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-minidisc {
+            background-position: -420px -570px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-minibus {
+            background-position: -450px -570px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-milky_way {
+            background-position: -480px -570px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-microscope {
+            background-position: -510px -570px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-microphone {
+            background-position: -540px -570px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-metro {
+            background-position: -570px -570px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-metal {
+            background-position: -600px 0;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-mens {
+            background-position: -600px -30px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-memo {
+            background-position: -600px -60px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-melon {
+            background-position: -600px -90px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-mega {
+            background-position: -600px -120px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-meat_on_bone {
+            background-position: -600px -150px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-massage {
+            background-position: -600px -180px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-mask {
+            background-position: -600px -210px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-maple_leaf {
+            background-position: -600px -240px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-mans_shoe {
+            background-position: -600px -270px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-man_with_turban {
+            background-position: -600px -300px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-man_with_gua_pi_mao {
+            background-position: -600px -330px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-man {
+            background-position: -600px -360px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-mailbox_with_no_mail {
+            background-position: -600px -390px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-mailbox_with_mail {
+            background-position: -600px -420px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-mailbox_closed {
+            background-position: -600px -450px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-mailbox {
+            background-position: -600px -480px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-mahjong {
+            background-position: -600px -510px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-mag_right {
+            background-position: -600px -540px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-mag {
+            background-position: -600px -570px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-m {
+            background-position: 0 -600px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-low_brightness {
+            background-position: -30px -600px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-love_letter {
+            background-position: -60px -600px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-love_hotel {
+            background-position: -90px -600px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-loudspeaker {
+            background-position: -120px -600px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-loop {
+            background-position: -150px -600px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-lollipop {
+            background-position: -180px -600px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-lock_with_ink_pen {
+            background-position: -210px -600px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-lock {
+            background-position: -240px -600px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-lipstick {
+            background-position: -270px -600px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-lips {
+            background-position: -300px -600px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-link {
+            background-position: -330px -600px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-light_rail {
+            background-position: -360px -600px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-libra {
+            background-position: -390px -600px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-leopard {
+            background-position: -420px -600px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-leo {
+            background-position: -450px -600px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-lemon {
+            background-position: -480px -600px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-leftwards_arrow_with_hook {
+            background-position: -510px -600px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-left_right_arrow {
+            background-position: -540px -600px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-left_luggage {
+            background-position: -570px -600px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-ledger {
+            background-position: -600px -600px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-leaves {
+            background-position: -630px 0;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-laughing {
+            background-position: -630px -30px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-last_quarter_moon_with_face {
+            background-position: -630px -60px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-last_quarter_moon {
+            background-position: -630px -90px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-large_orange_diamond {
+            background-position: -630px -120px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-large_blue_diamond {
+            background-position: -630px -150px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-large_blue_circle {
+            background-position: -630px -180px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-kr {
+            background-position: -630px -210px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-koko {
+            background-position: -630px -240px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-koala {
+            background-position: -630px -270px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-kissing_smiling_eyes {
+            background-position: -630px -300px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-kissing_heart {
+            background-position: -630px -330px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-kissing_face {
+            background-position: -630px -360px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-kissing_closed_eyes {
+            background-position: -630px -390px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-kissing_cat {
+            background-position: -630px -420px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-kissing {
+            background-position: -630px -450px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-kiss {
+            background-position: -630px -480px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-kimono {
+            background-position: -630px -510px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-keycap_ten {
+            background-position: -630px -540px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-key {
+            background-position: -630px -570px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-jp {
+            background-position: -630px -600px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-joy_cat {
+            background-position: 0 -630px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-joy {
+            background-position: -30px -630px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-jeans {
+            background-position: -60px -630px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-japanese_ogre {
+            background-position: -90px -630px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-japanese_goblin {
+            background-position: -120px -630px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-japanese_castle {
+            background-position: -150px -630px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-japan {
+            background-position: -180px -630px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-jack_o_lantern {
+            background-position: -210px -630px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-izakaya_lantern {
+            background-position: -240px -630px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-it {
+            background-position: -270px -630px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-iphone {
+            background-position: -300px -630px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-interrobang {
+            background-position: -330px -630px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-innocent {
+            background-position: -360px -630px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-information_source {
+            background-position: -390px -630px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-information_desk_person {
+            background-position: -420px -630px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-incoming_envelope {
+            background-position: -450px -630px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-inbox_tray {
+            background-position: -480px -630px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-imp {
+            background-position: -510px -630px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-ideograph_advantage {
+            background-position: -540px -630px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-id {
+            background-position: -570px -630px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-icecream {
+            background-position: -600px -630px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-ice_cream {
+            background-position: -630px -630px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-hushed {
+            background-position: -660px 0;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-hurtrealbad {
+            background-position: -660px -30px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-house_with_garden {
+            background-position: -660px -60px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-house {
+            background-position: -660px -90px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-hourglass_flowing_sand {
+            background-position: -660px -120px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-hourglass {
+            background-position: -660px -150px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-hotsprings {
+            background-position: -660px -180px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-hotel {
+            background-position: -660px -210px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-hospital {
+            background-position: -660px -240px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-horse_racing {
+            background-position: -660px -270px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-horse {
+            background-position: -660px -300px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-honeybee {
+            background-position: -660px -330px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-honey_pot {
+            background-position: -660px -360px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-hocho {
+            background-position: -660px -390px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-high_heel {
+            background-position: -660px -420px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-high_brightness {
+            background-position: -660px -450px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-hibiscus {
+            background-position: -660px -480px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-herb {
+            background-position: -660px -510px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-helicopter {
+            background-position: -660px -540px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-heavy_plus_sign {
+            background-position: -660px -570px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-heavy_multiplication_x {
+            background-position: -660px -600px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-heavy_minus_sign {
+            background-position: -660px -630px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-heavy_exclamation_mark {
+            background-position: 0 -660px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-heavy_dollar_sign {
+            background-position: -30px -660px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-heavy_division_sign {
+            background-position: -60px -660px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-heavy_check_mark {
+            background-position: -90px -660px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-hearts {
+            background-position: -120px -660px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-heartpulse {
+            background-position: -150px -660px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-heartbeat {
+            background-position: -180px -660px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-heart_eyes_cat {
+            background-position: -210px -660px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-heart_eyes {
+            background-position: -240px -660px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-heart_decoration {
+            background-position: -270px -660px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-heart {
+            background-position: -300px -660px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-hear_no_evil {
+            background-position: -330px -660px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-headphones {
+            background-position: -360px -660px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-hatching_chick {
+            background-position: -390px -660px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-hatched_chick {
+            background-position: -420px -660px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-hash {
+            background-position: -450px -660px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-hankey {
+            background-position: -480px -660px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-handbag {
+            background-position: -510px -660px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-hand {
+            background-position: -540px -660px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-hamster {
+            background-position: -570px -660px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-hammer {
+            background-position: -600px -660px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-hamburger {
+            background-position: -630px -660px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-haircut {
+            background-position: -660px -660px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-gun {
+            background-position: -690px 0;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-guitar {
+            background-position: -690px -30px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-guardsman {
+            background-position: -690px -60px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-grinning {
+            background-position: -690px -90px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-grin {
+            background-position: -690px -120px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-grimacing {
+            background-position: -690px -150px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-grey_question {
+            background-position: -690px -180px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-grey_exclamation {
+            background-position: -690px -210px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-green_heart {
+            background-position: -690px -240px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-green_book {
+            background-position: -690px -270px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-green_apple {
+            background-position: -690px -300px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-grapes {
+            background-position: -690px -330px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-golf {
+            background-position: -690px -360px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-godmode {
+            background-position: -690px -390px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-goberserk {
+            background-position: -690px -420px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-goat {
+            background-position: -690px -450px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-globe_with_meridians {
+            background-position: -690px -480px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-girl {
+            background-position: -690px -510px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-gift_heart {
+            background-position: -690px -540px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-gift {
+            background-position: -690px -570px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-ghost {
+            background-position: -690px -600px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-gemini {
+            background-position: -690px -630px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-gem {
+            background-position: -690px -660px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-gb {
+            background-position: 0 -690px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-game_die {
+            background-position: -30px -690px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-full_moon_with_face {
+            background-position: -60px -690px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-full_moon {
+            background-position: -90px -690px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-fuelpump {
+            background-position: -120px -690px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-frowning {
+            background-position: -150px -690px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-frog {
+            background-position: -180px -690px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-fries {
+            background-position: -210px -690px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-fried_shrimp {
+            background-position: -240px -690px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-free {
+            background-position: -270px -690px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-fr {
+            background-position: -300px -690px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-four_leaf_clover {
+            background-position: -330px -690px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-four {
+            background-position: -360px -690px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-fountain {
+            background-position: -390px -690px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-fork_and_knife {
+            background-position: -420px -690px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-football {
+            background-position: -450px -690px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-foggy {
+            background-position: -480px -690px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-flushed {
+            background-position: -510px -690px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-flower_playing_cards {
+            background-position: -540px -690px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-floppy_disk {
+            background-position: -570px -690px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-flashlight {
+            background-position: -600px -690px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-flags {
+            background-position: -630px -690px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-five {
+            background-position: -660px -690px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-fist {
+            background-position: -690px -690px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-fishing_pole_and_fish {
+            background-position: -720px 0;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-fish_cake {
+            background-position: -720px -30px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-fish {
+            background-position: -720px -60px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-first_quarter_moon_with_face {
+            background-position: -720px -90px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-first_quarter_moon {
+            background-position: -720px -120px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-fireworks {
+            background-position: -720px -150px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-fire_engine {
+            background-position: -720px -180px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-fire {
+            background-position: -720px -210px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-finnadie {
+            background-position: -720px -240px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-file_folder {
+            background-position: -720px -270px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-ferris_wheel {
+            background-position: -720px -300px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-feet {
+            background-position: -720px -330px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-feelsgood {
+            background-position: -720px -360px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-fearful {
+            background-position: -720px -390px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-fax {
+            background-position: -720px -420px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-fast_forward {
+            background-position: -720px -450px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-family {
+            background-position: -720px -480px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-fallen_leaf {
+            background-position: -720px -510px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-factory {
+            background-position: -720px -540px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-facepunch {
+            background-position: -720px -570px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-eyes {
+            background-position: -720px -600px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-eyeglasses {
+            background-position: -720px -630px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-expressionless {
+            background-position: -720px -660px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-exclamation {
+            background-position: -720px -690px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-evergreen_tree {
+            background-position: 0 -720px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-european_post_office {
+            background-position: -30px -720px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-european_castle {
+            background-position: -60px -720px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-euro {
+            background-position: -90px -720px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-es {
+            background-position: -120px -720px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-envelope {
+            background-position: -150px -720px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-end {
+            background-position: -180px -720px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-email {
+            background-position: -210px -720px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-elephant {
+            background-position: -240px -720px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-electric_plug {
+            background-position: -270px -720px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-eight_spoked_asterisk {
+            background-position: -300px -720px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-eight_pointed_black_star {
+            background-position: -330px -720px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-eight {
+            background-position: -360px -720px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-eggplant {
+            background-position: -390px -720px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-egg {
+            background-position: -420px -720px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-earth_asia {
+            background-position: -450px -720px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-earth_americas {
+            background-position: -480px -720px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-earth_africa {
+            background-position: -510px -720px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-ear_of_rice {
+            background-position: -540px -720px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-ear {
+            background-position: -570px -720px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-e-mail {
+            background-position: -600px -720px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-dvd {
+            background-position: -630px -720px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-droplet {
+            background-position: -660px -720px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-dromedary_camel {
+            background-position: -690px -720px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-dress {
+            background-position: -720px -720px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-dragon_face {
+            background-position: -750px 0;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-dragon {
+            background-position: -750px -30px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-doughnut {
+            background-position: -750px -60px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-door {
+            background-position: -750px -90px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-dolphin {
+            background-position: -750px -120px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-dolls {
+            background-position: -750px -150px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-dollar {
+            background-position: -750px -180px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-dog2 {
+            background-position: -750px -210px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-dog {
+            background-position: -750px -240px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-do_not_litter {
+            background-position: -750px -270px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-dizzy_face {
+            background-position: -750px -300px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-dizzy {
+            background-position: -750px -330px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-disappointed {
+            background-position: -750px -360px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-diamonds {
+            background-position: -750px -390px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-diamond_shape_with_a_dot_inside {
+            background-position: -750px -420px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-department_store {
+            background-position: -750px -450px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-deciduous_tree {
+            background-position: -750px -480px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-de {
+            background-position: -750px -510px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-date {
+            background-position: -750px -540px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-dash {
+            background-position: -750px -570px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-dart {
+            background-position: -750px -600px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-dango {
+            background-position: -750px -630px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-dancers {
+            background-position: -750px -660px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-dancer {
+            background-position: -750px -690px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-cyclone {
+            background-position: -750px -720px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-customs {
+            background-position: 0 -750px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-custard {
+            background-position: -30px -750px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-curry {
+            background-position: -60px -750px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-currency_exchange {
+            background-position: -90px -750px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-curly_loop {
+            background-position: -120px -750px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-cupid {
+            background-position: -150px -750px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-crystal_ball {
+            background-position: -180px -750px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-crying_cat_face {
+            background-position: -210px -750px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-cry {
+            background-position: -240px -750px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-crown {
+            background-position: -270px -750px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-crossed_flags {
+            background-position: -300px -750px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-crocodile {
+            background-position: -330px -750px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-credit_card {
+            background-position: -360px -750px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-cow2 {
+            background-position: -390px -750px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-cow {
+            background-position: -420px -750px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-couplekiss {
+            background-position: -450px -750px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-couple_with_heart {
+            background-position: -480px -750px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-couple {
+            background-position: -510px -750px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-corn {
+            background-position: -540px -750px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-copyright {
+            background-position: -570px -750px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-cop {
+            background-position: -600px -750px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-cool {
+            background-position: -630px -750px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-cookie {
+            background-position: -660px -750px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-convenience_store {
+            background-position: -690px -750px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-construction_worker {
+            background-position: -720px -750px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-construction {
+            background-position: -750px -750px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-congratulations {
+            background-position: -780px 0;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-confused {
+            background-position: -780px -30px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-confounded {
+            background-position: -780px -60px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-confetti_ball {
+            background-position: -780px -90px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-computer {
+            background-position: -780px -120px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-collision {
+            background-position: -780px -150px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-cold_sweat {
+            background-position: -780px -180px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-coffee {
+            background-position: -780px -210px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-cocktail {
+            background-position: -780px -240px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-cn {
+            background-position: -780px -270px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-clubs {
+            background-position: -780px -300px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-cloud {
+            background-position: -780px -330px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-closed_umbrella {
+            background-position: -780px -360px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-closed_lock_with_key {
+            background-position: -780px -390px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-closed_book {
+            background-position: -780px -420px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-clock930 {
+            background-position: -780px -450px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-clock9 {
+            background-position: -780px -480px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-clock830 {
+            background-position: -780px -510px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-clock8 {
+            background-position: -780px -540px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-clock730 {
+            background-position: -780px -570px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-clock7 {
+            background-position: -780px -600px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-clock630 {
+            background-position: -780px -630px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-clock6 {
+            background-position: -780px -660px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-clock530 {
+            background-position: -780px -690px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-clock5 {
+            background-position: -780px -720px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-clock430 {
+            background-position: -780px -750px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-clock4 {
+            background-position: 0 -780px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-clock330 {
+            background-position: -30px -780px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-clock3 {
+            background-position: -60px -780px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-clock230 {
+            background-position: -90px -780px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-clock2 {
+            background-position: -120px -780px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-clock130 {
+            background-position: -150px -780px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-clock1230 {
+            background-position: -180px -780px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-clock12 {
+            background-position: -210px -780px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-clock1130 {
+            background-position: -240px -780px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-clock11 {
+            background-position: -270px -780px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-clock1030 {
+            background-position: -300px -780px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-clock10 {
+            background-position: -330px -780px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-clock1 {
+            background-position: -360px -780px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-clipboard {
+            background-position: -390px -780px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-clapper {
+            background-position: -420px -780px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-clap {
+            background-position: -450px -780px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-cl {
+            background-position: -480px -780px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-city_sunset {
+            background-position: -510px -780px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-city_sunrise {
+            background-position: -540px -780px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-circus_tent {
+            background-position: -570px -780px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-cinema {
+            background-position: -600px -780px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-church {
+            background-position: -630px -780px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-christmas_tree {
+            background-position: -660px -780px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-chocolate_bar {
+            background-position: -690px -780px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-children_crossing {
+            background-position: -720px -780px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-chicken {
+            background-position: -750px -780px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-chestnut {
+            background-position: -780px -780px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-cherry_blossom {
+            background-position: -810px 0;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-cherries {
+            background-position: -810px -30px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-checkered_flag {
+            background-position: -810px -60px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-chart_with_upwards_trend {
+            background-position: -810px -90px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-chart_with_downwards_trend {
+            background-position: -810px -120px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-chart {
+            background-position: -810px -150px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-cd {
+            background-position: -810px -180px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-cat2 {
+            background-position: -810px -210px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-cat {
+            background-position: -810px -240px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-carousel_horse {
+            background-position: -810px -270px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-card_index {
+            background-position: -810px -300px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-car {
+            background-position: -810px -330px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-capricorn {
+            background-position: -810px -360px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-capital_abcd {
+            background-position: -810px -390px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-candy {
+            background-position: -810px -420px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-cancer {
+            background-position: -810px -450px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-camera {
+            background-position: -810px -480px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-camel {
+            background-position: -810px -510px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-calling {
+            background-position: -810px -540px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-calendar {
+            background-position: -810px -570px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-cake {
+            background-position: -810px -600px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-cactus {
+            background-position: -810px -630px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-busts_in_silhouette {
+            background-position: -810px -660px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-bust_in_silhouette {
+            background-position: -810px -690px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-busstop {
+            background-position: -810px -720px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-bus {
+            background-position: -810px -750px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-bullettrain_side {
+            background-position: -810px -780px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-bullettrain_front {
+            background-position: 0 -810px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-bulb {
+            background-position: -30px -810px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-bug {
+            background-position: -60px -810px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-broken_heart {
+            background-position: -90px -810px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-briefcase {
+            background-position: -120px -810px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-bridge_at_night {
+            background-position: -150px -810px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-bride_with_veil {
+            background-position: -180px -810px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-bread {
+            background-position: -210px -810px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-boy {
+            background-position: -240px -810px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-bowtie {
+            background-position: -270px -810px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-bowling {
+            background-position: -300px -810px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-bow {
+            background-position: -330px -810px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-bouquet {
+            background-position: -360px -810px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-boot {
+            background-position: -390px -810px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-boom {
+            background-position: -420px -810px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-books {
+            background-position: -450px -810px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-bookmark_tabs {
+            background-position: -480px -810px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-bookmark {
+            background-position: -510px -810px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-book {
+            background-position: -540px -810px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-bomb {
+            background-position: -570px -810px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-boat {
+            background-position: -600px -810px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-boar {
+            background-position: -630px -810px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-blush {
+            background-position: -660px -810px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-blue_heart {
+            background-position: -690px -810px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-blue_car {
+            background-position: -720px -810px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-blue_book {
+            background-position: -750px -810px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-blowfish {
+            background-position: -780px -810px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-blossom {
+            background-position: -810px -810px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-black_square_button {
+            background-position: -840px 0;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-black_square {
+            background-position: -840px -30px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-black_nib {
+            background-position: -840px -60px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-black_joker {
+            background-position: -840px -90px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-black_circle {
+            background-position: -840px -120px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-birthday {
+            background-position: -840px -150px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-bird {
+            background-position: -840px -180px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-bikini {
+            background-position: -840px -210px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-bike {
+            background-position: -840px -240px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-bicyclist {
+            background-position: -840px -270px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-bento {
+            background-position: -840px -300px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-bell {
+            background-position: -840px -330px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-beginner {
+            background-position: -840px -360px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-beetle {
+            background-position: -840px -390px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-beers {
+            background-position: -840px -420px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-beer {
+            background-position: -840px -450px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-bee {
+            background-position: -840px -480px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-bear {
+            background-position: -840px -510px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-battery {
+            background-position: -840px -540px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-bathtub {
+            background-position: -840px -570px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-bath {
+            background-position: -840px -600px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-basketball {
+            background-position: -840px -630px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-baseball {
+            background-position: -840px -660px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-barber {
+            background-position: -840px -690px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-bar_chart {
+            background-position: -840px -720px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-bank {
+            background-position: -840px -750px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-bangbang {
+            background-position: -840px -780px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-banana {
+            background-position: -840px -810px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-bamboo {
+            background-position: 0 -840px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-ballot_box_with_check {
+            background-position: -30px -840px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-balloon {
+            background-position: -60px -840px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-baggage_claim {
+            background-position: -90px -840px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-baby_symbol {
+            background-position: -120px -840px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-baby_chick {
+            background-position: -150px -840px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-baby_bottle {
+            background-position: -180px -840px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-baby {
+            background-position: -210px -840px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-b {
+            background-position: -240px -840px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-atm {
+            background-position: -270px -840px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-astonished {
+            background-position: -300px -840px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-articulated_lorry {
+            background-position: -330px -840px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-art {
+            background-position: -360px -840px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-arrows_counterclockwise {
+            background-position: -390px -840px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-arrows_clockwise {
+            background-position: -420px -840px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-arrow_upper_right {
+            background-position: -450px -840px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-arrow_upper_left {
+            background-position: -480px -840px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-arrow_up_small {
+            background-position: -510px -840px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-arrow_up_down {
+            background-position: -540px -840px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-arrow_up {
+            background-position: -570px -840px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-arrow_right_hook {
+            background-position: -600px -840px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-arrow_right {
+            background-position: -630px -840px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-arrow_lower_right {
+            background-position: -660px -840px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-arrow_lower_left {
+            background-position: -690px -840px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-arrow_left {
+            background-position: -720px -840px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-arrow_heading_up {
+            background-position: -750px -840px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-arrow_heading_down {
+            background-position: -780px -840px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-arrow_forward {
+            background-position: -810px -840px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-arrow_down_small {
+            background-position: -840px -840px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-arrow_down {
+            background-position: -870px 0;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-arrow_double_up {
+            background-position: -870px -30px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-arrow_double_down {
+            background-position: -870px -60px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-arrow_backward {
+            background-position: -870px -90px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-aries {
+            background-position: -870px -120px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-aquarius {
+            background-position: -870px -150px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-apple {
+            background-position: -870px -180px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-ant {
+            background-position: -870px -210px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-anguished {
+            background-position: -870px -240px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-angry {
+            background-position: -870px -270px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-anger {
+            background-position: -870px -300px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-angel {
+            background-position: -870px -330px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-anchor {
+            background-position: -870px -360px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-ambulance {
+            background-position: -870px -390px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-alien {
+            background-position: -870px -420px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-alarm_clock {
+            background-position: -870px -450px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-airplane {
+            background-position: -870px -480px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-aerial_tramway {
+            background-position: -870px -510px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-accept {
+            background-position: -870px -540px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-abcd {
+            background-position: -870px -570px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-abc {
+            background-position: -870px -600px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-ab {
+            background-position: -870px -630px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-a {
+            background-position: -870px -660px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-8ball {
+            background-position: -870px -690px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-1234 {
+            background-position: -870px -720px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-109 {
+            background-position: -870px -750px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-100 {
+            background-position: -870px -780px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji--1 {
+            background-position: -870px -810px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .sprite-emoji-1 {
+            background-position: -870px -840px;
+            width: 30px;
+            height: 30px;
+        }
+
+        @media screen and (-webkit-min-device-pixel-ratio: 1.0), screen and (min--moz-device-pixel-ratio: 1.0), screen and (-o-min-device-pixel-ratio: 100/100), screen and (min-device-pixel-ratio: 1.0), screen and (min-resolution: 1.0dppx) {
+            .sprite-emoji-zzz,
+    .sprite-emoji-zero,
+    .sprite-emoji-zap,
+    .sprite-emoji-yum,
+    .sprite-emoji-yen,
+    .sprite-emoji-yellow_heart,
+    .sprite-emoji-x,
+    .sprite-emoji-wrench,
+    .sprite-emoji-worried,
+    .sprite-emoji-womens,
+    .sprite-emoji-womans_hat,
+    .sprite-emoji-womans_clothes,
+    .sprite-emoji-woman,
+    .sprite-emoji-wolf,
+    .sprite-emoji-wink2,
+    .sprite-emoji-wink,
+    .sprite-emoji-wine_glass,
+    .sprite-emoji-wind_chime,
+    .sprite-emoji-white_square_button,
+    .sprite-emoji-white_square,
+    .sprite-emoji-white_flower,
+    .sprite-emoji-white_circle,
+    .sprite-emoji-white_check_mark,
+    .sprite-emoji-wheelchair,
+    .sprite-emoji-whale2,
+    .sprite-emoji-whale,
+    .sprite-emoji-wedding,
+    .sprite-emoji-weary,
+    .sprite-emoji-wc,
+    .sprite-emoji-waxing_gibbous_moon,
+    .sprite-emoji-waxing_crescent_moon,
+    .sprite-emoji-wavy_dash,
+    .sprite-emoji-wave,
+    .sprite-emoji-watermelon,
+    .sprite-emoji-water_buffalo,
+    .sprite-emoji-watch,
+    .sprite-emoji-warning,
+    .sprite-emoji-waning_gibbous_moon,
+    .sprite-emoji-waning_crescent_moon,
+    .sprite-emoji-walking,
+    .sprite-emoji-vs,
+    .sprite-emoji-volcano,
+    .sprite-emoji-virgo,
+    .sprite-emoji-violin,
+    .sprite-emoji-video_game,
+    .sprite-emoji-video_camera,
+    .sprite-emoji-vibration_mode,
+    .sprite-emoji-vhs,
+    .sprite-emoji-vertical_traffic_light,
+    .sprite-emoji-v,
+    .sprite-emoji-us,
+    .sprite-emoji-up,
+    .sprite-emoji-unlock,
+    .sprite-emoji-underage,
+    .sprite-emoji-unamused,
+    .sprite-emoji-umbrella,
+    .sprite-emoji-uk,
+    .sprite-emoji-u7a7a,
+    .sprite-emoji-u7981,
+    .sprite-emoji-u7533,
+    .sprite-emoji-u7121,
+    .sprite-emoji-u6e80,
+    .sprite-emoji-u6709,
+    .sprite-emoji-u6708,
+    .sprite-emoji-u6307,
+    .sprite-emoji-u55b6,
+    .sprite-emoji-u5408,
+    .sprite-emoji-u5272,
+    .sprite-emoji-two_women_holding_hands,
+    .sprite-emoji-two_men_holding_hands,
+    .sprite-emoji-two_hearts,
+    .sprite-emoji-two,
+    .sprite-emoji-twisted_rightwards_arrows,
+    .sprite-emoji-tv,
+    .sprite-emoji-turtle,
+    .sprite-emoji-tulip,
+    .sprite-emoji-tshirt,
+    .sprite-emoji-trumpet,
+    .sprite-emoji-truck,
+    .sprite-emoji-tropical_fish,
+    .sprite-emoji-tropical_drink,
+    .sprite-emoji-trophy,
+    .sprite-emoji-trollface,
+    .sprite-emoji-trolleybus,
+    .sprite-emoji-triumph,
+    .sprite-emoji-trident,
+    .sprite-emoji-triangular_ruler,
+    .sprite-emoji-triangular_flag_on_post,
+    .sprite-emoji-tram,
+    .sprite-emoji-train2,
+    .sprite-emoji-train,
+    .sprite-emoji-traffic_light,
+    .sprite-emoji-tractor,
+    .sprite-emoji-tophat,
+    .sprite-emoji-top,
+    .sprite-emoji-tongue,
+    .sprite-emoji-tomato,
+    .sprite-emoji-tokyo_tower,
+    .sprite-emoji-toilet,
+    .sprite-emoji-tm,
+    .sprite-emoji-tired_face,
+    .sprite-emoji-tiger2,
+    .sprite-emoji-tiger,
+    .sprite-emoji-ticket,
+    .sprite-emoji-thumbsup,
+    .sprite-emoji-thumbsdown,
+    .sprite-emoji-three,
+    .sprite-emoji-thought_balloon,
+    .sprite-emoji-tent,
+    .sprite-emoji-tennis,
+    .sprite-emoji-telescope,
+    .sprite-emoji-telephone_receiver,
+    .sprite-emoji-telephone,
+    .sprite-emoji-tea,
+    .sprite-emoji-taxi,
+    .sprite-emoji-taurus,
+    .sprite-emoji-tangerine,
+    .sprite-emoji-tanabata_tree,
+    .sprite-emoji-tada,
+    .sprite-emoji-syringe,
+    .sprite-emoji-symbols,
+    .sprite-emoji-swimmer,
+    .sprite-emoji-sweet_potato,
+    .sprite-emoji-sweat_smile,
+    .sprite-emoji-sweat_drops,
+    .sprite-emoji-sweat,
+    .sprite-emoji-suspension_railway,
+    .sprite-emoji-suspect,
+    .sprite-emoji-sushi,
+    .sprite-emoji-surfer,
+    .sprite-emoji-sunrise_over_mountains,
+    .sprite-emoji-sunrise,
+    .sprite-emoji-sunny,
+    .sprite-emoji-sunglasses,
+    .sprite-emoji-sunflower,
+    .sprite-emoji-sun_with_face,
+    .sprite-emoji-stuck_out_tongue_winking_eye,
+    .sprite-emoji-stuck_out_tongue_closed_eyes,
+    .sprite-emoji-stuck_out_tongue,
+    .sprite-emoji-strawberry,
+    .sprite-emoji-straight_ruler,
+    .sprite-emoji-stew,
+    .sprite-emoji-steam_locomotive,
+    .sprite-emoji-statue_of_liberty,
+    .sprite-emoji-station,
+    .sprite-emoji-stars,
+    .sprite-emoji-star2,
+    .sprite-emoji-star,
+    .sprite-emoji-squirrel,
+    .sprite-emoji-speedboat,
+    .sprite-emoji-speech_balloon,
+    .sprite-emoji-speaker,
+    .sprite-emoji-speak_no_evil,
+    .sprite-emoji-sparkling_heart,
+    .sprite-emoji-sparkles,
+    .sprite-emoji-sparkler,
+    .sprite-emoji-spaghetti,
+    .sprite-emoji-spades,
+    .sprite-emoji-space_invader,
+    .sprite-emoji-sound,
+    .sprite-emoji-sos,
+    .sprite-emoji-soon,
+    .sprite-emoji-soccer,
+    .sprite-emoji-sob,
+    .sprite-emoji-snowman,
+    .sprite-emoji-snowflake,
+    .sprite-emoji-snowboarder,
+    .sprite-emoji-snake,
+    .sprite-emoji-snail,
+    .sprite-emoji-smoking,
+    .sprite-emoji-smirk_cat,
+    .sprite-emoji-smirk,
+    .sprite-emoji-smiling_imp,
+    .sprite-emoji-smiley_cat,
+    .sprite-emoji-smiley,
+    .sprite-emoji-smile_cat,
+    .sprite-emoji-smile,
+    .sprite-emoji-small_red_triangle_down,
+    .sprite-emoji-small_red_triangle,
+    .sprite-emoji-small_orange_diamond,
+    .sprite-emoji-small_blue_diamond,
+    .sprite-emoji-slot_machine,
+    .sprite-emoji-sleepy,
+    .sprite-emoji-sleeping,
+    .sprite-emoji-skull,
+    .sprite-emoji-ski,
+    .sprite-emoji-six_pointed_star,
+    .sprite-emoji-six,
+    .sprite-emoji-signal_strength,
+    .sprite-emoji-shower,
+    .sprite-emoji-shoe,
+    .sprite-emoji-shit,
+    .sprite-emoji-shirt,
+    .sprite-emoji-shipit,
+    .sprite-emoji-ship,
+    .sprite-emoji-shell,
+    .sprite-emoji-sheep,
+    .sprite-emoji-shaved_ice,
+    .sprite-emoji-seven,
+    .sprite-emoji-seedling,
+    .sprite-emoji-see_no_evil,
+    .sprite-emoji-secret,
+    .sprite-emoji-seat,
+    .sprite-emoji-scroll,
+    .sprite-emoji-scream_cat,
+    .sprite-emoji-scream,
+    .sprite-emoji-scorpius,
+    .sprite-emoji-scissors,
+    .sprite-emoji-school_satchel,
+    .sprite-emoji-school,
+    .sprite-emoji-saxophone,
+    .sprite-emoji-satisfied,
+    .sprite-emoji-satellite,
+    .sprite-emoji-santa,
+    .sprite-emoji-sandal,
+    .sprite-emoji-sake,
+    .sprite-emoji-sailboat,
+    .sprite-emoji-sagittarius,
+    .sprite-emoji-sa,
+    .sprite-emoji-running_shirt_with_sash,
+    .sprite-emoji-running,
+    .sprite-emoji-runner,
+    .sprite-emoji-rugby_football,
+    .sprite-emoji-ru,
+    .sprite-emoji-rowboat,
+    .sprite-emoji-round_pushpin,
+    .sprite-emoji-rotating_light,
+    .sprite-emoji-rose,
+    .sprite-emoji-rooster,
+    .sprite-emoji-roller_coaster,
+    .sprite-emoji-rocket,
+    .sprite-emoji-ring,
+    .sprite-emoji-rice_scene,
+    .sprite-emoji-rice_cracker,
+    .sprite-emoji-rice_ball,
+    .sprite-emoji-rice,
+    .sprite-emoji-ribbon,
+    .sprite-emoji-rewind,
+    .sprite-emoji-revolving_hearts,
+    .sprite-emoji-restroom,
+    .sprite-emoji-repeat_one,
+    .sprite-emoji-repeat,
+    .sprite-emoji-relieved,
+    .sprite-emoji-relaxed,
+    .sprite-emoji-registered,
+    .sprite-emoji-red_circle,
+    .sprite-emoji-red_car,
+    .sprite-emoji-recycle,
+    .sprite-emoji-rat,
+    .sprite-emoji-ramen,
+    .sprite-emoji-ram,
+    .sprite-emoji-raised_hands,
+    .sprite-emoji-raised_hand,
+    .sprite-emoji-rainbow,
+    .sprite-emoji-railway_car,
+    .sprite-emoji-rage4,
+    .sprite-emoji-rage3,
+    .sprite-emoji-rage2,
+    .sprite-emoji-rage1,
+    .sprite-emoji-rage,
+    .sprite-emoji-radio_button,
+    .sprite-emoji-radio,
+    .sprite-emoji-racehorse,
+    .sprite-emoji-rabbit2,
+    .sprite-emoji-rabbit,
+    .sprite-emoji-question,
+    .sprite-emoji-put_litter_in_its_place,
+    .sprite-emoji-pushpin,
+    .sprite-emoji-purse,
+    .sprite-emoji-purple_heart,
+    .sprite-emoji-punch,
+    .sprite-emoji-princess,
+    .sprite-emoji-pray,
+    .sprite-emoji-pouting_cat,
+    .sprite-emoji-pound,
+    .sprite-emoji-poultry_leg,
+    .sprite-emoji-pouch,
+    .sprite-emoji-potable_water,
+    .sprite-emoji-postbox,
+    .sprite-emoji-postal_horn,
+    .sprite-emoji-post_office,
+    .sprite-emoji-poop,
+    .sprite-emoji-poodle,
+    .sprite-emoji-police_car,
+    .sprite-emoji-point_up_2,
+    .sprite-emoji-point_up,
+    .sprite-emoji-point_right,
+    .sprite-emoji-point_left,
+    .sprite-emoji-point_down,
+    .sprite-emoji-plus1,
+    .sprite-emoji-pizza,
+    .sprite-emoji-pisces,
+    .sprite-emoji-pineapple,
+    .sprite-emoji-pill,
+    .sprite-emoji-pig_nose,
+    .sprite-emoji-pig2,
+    .sprite-emoji-pig,
+    .sprite-emoji-phone,
+    .sprite-emoji-person_with_pouting_face,
+    .sprite-emoji-person_with_blond_hair,
+    .sprite-emoji-person_frowning,
+    .sprite-emoji-persevere,
+    .sprite-emoji-performing_arts,
+    .sprite-emoji-pensive,
+    .sprite-emoji-penguin,
+    .sprite-emoji-pencil2,
+    .sprite-emoji-pencil,
+    .sprite-emoji-pear,
+    .sprite-emoji-peach,
+    .sprite-emoji-paw_prints,
+    .sprite-emoji-passport_control,
+    .sprite-emoji-partly_sunny,
+    .sprite-emoji-part_alternation_mark,
+    .sprite-emoji-parking,
+    .sprite-emoji-paperclip,
+    .sprite-emoji-panda_face,
+    .sprite-emoji-palm_tree,
+    .sprite-emoji-pager,
+    .sprite-emoji-page_with_curl,
+    .sprite-emoji-page_facing_up,
+    .sprite-emoji-ox,
+    .sprite-emoji-outbox_tray,
+    .sprite-emoji-orange_book,
+    .sprite-emoji-ophiuchus,
+    .sprite-emoji-open_mouth,
+    .sprite-emoji-open_hands,
+    .sprite-emoji-open_file_folder,
+    .sprite-emoji-one,
+    .sprite-emoji-oncoming_taxi,
+    .sprite-emoji-oncoming_police_car,
+    .sprite-emoji-oncoming_bus,
+    .sprite-emoji-oncoming_automobile,
+    .sprite-emoji-on,
+    .sprite-emoji-older_woman,
+    .sprite-emoji-older_man,
+    .sprite-emoji-ok_woman,
+    .sprite-emoji-ok_hand,
+    .sprite-emoji-ok,
+    .sprite-emoji-office,
+    .sprite-emoji-oden,
+    .sprite-emoji-octopus,
+    .sprite-emoji-octocat,
+    .sprite-emoji-ocean,
+    .sprite-emoji-o2,
+    .sprite-emoji-o,
+    .sprite-emoji-nut_and_bolt,
+    .sprite-emoji-notes,
+    .sprite-emoji-notebook_with_decorative_cover,
+    .sprite-emoji-notebook,
+    .sprite-emoji-nose,
+    .sprite-emoji-non-potable_water,
+    .sprite-emoji-no_smoking,
+    .sprite-emoji-no_pedestrians,
+    .sprite-emoji-no_mouth,
+    .sprite-emoji-no_mobile_phones,
+    .sprite-emoji-no_good,
+    .sprite-emoji-no_entry_sign,
+    .sprite-emoji-no_entry,
+    .sprite-emoji-no_bicycles,
+    .sprite-emoji-no_bell,
+    .sprite-emoji-nine,
+    .sprite-emoji-ng,
+    .sprite-emoji-newspaper,
+    .sprite-emoji-new_moon_with_face,
+    .sprite-emoji-new_moon,
+    .sprite-emoji-new,
+    .sprite-emoji-neutral_face,
+    .sprite-emoji-negative_squared_cross_mark,
+    .sprite-emoji-necktie,
+    .sprite-emoji-neckbeard,
+    .sprite-emoji-name_badge,
+    .sprite-emoji-nail_care,
+    .sprite-emoji-mute,
+    .sprite-emoji-musical_score,
+    .sprite-emoji-musical_note,
+    .sprite-emoji-musical_keyboard,
+    .sprite-emoji-mushroom,
+    .sprite-emoji-muscle,
+    .sprite-emoji-moyai,
+    .sprite-emoji-movie_camera,
+    .sprite-emoji-mouse2,
+    .sprite-emoji-mouse,
+    .sprite-emoji-mountain_railway,
+    .sprite-emoji-mountain_cableway,
+    .sprite-emoji-mountain_bicyclist,
+    .sprite-emoji-mount_fuji,
+    .sprite-emoji-mortar_board,
+    .sprite-emoji-moon,
+    .sprite-emoji-monorail,
+    .sprite-emoji-monkey_face,
+    .sprite-emoji-monkey,
+    .sprite-emoji-moneybag,
+    .sprite-emoji-money_with_wings,
+    .sprite-emoji-mobile_phone_off,
+    .sprite-emoji-minidisc,
+    .sprite-emoji-minibus,
+    .sprite-emoji-milky_way,
+    .sprite-emoji-microscope,
+    .sprite-emoji-microphone,
+    .sprite-emoji-metro,
+    .sprite-emoji-metal,
+    .sprite-emoji-mens,
+    .sprite-emoji-memo,
+    .sprite-emoji-melon,
+    .sprite-emoji-mega,
+    .sprite-emoji-meat_on_bone,
+    .sprite-emoji-massage,
+    .sprite-emoji-mask,
+    .sprite-emoji-maple_leaf,
+    .sprite-emoji-mans_shoe,
+    .sprite-emoji-man_with_turban,
+    .sprite-emoji-man_with_gua_pi_mao,
+    .sprite-emoji-man,
+    .sprite-emoji-mailbox_with_no_mail,
+    .sprite-emoji-mailbox_with_mail,
+    .sprite-emoji-mailbox_closed,
+    .sprite-emoji-mailbox,
+    .sprite-emoji-mahjong,
+    .sprite-emoji-mag_right,
+    .sprite-emoji-mag,
+    .sprite-emoji-m,
+    .sprite-emoji-low_brightness,
+    .sprite-emoji-love_letter,
+    .sprite-emoji-love_hotel,
+    .sprite-emoji-loudspeaker,
+    .sprite-emoji-loop,
+    .sprite-emoji-lollipop,
+    .sprite-emoji-lock_with_ink_pen,
+    .sprite-emoji-lock,
+    .sprite-emoji-lipstick,
+    .sprite-emoji-lips,
+    .sprite-emoji-link,
+    .sprite-emoji-light_rail,
+    .sprite-emoji-libra,
+    .sprite-emoji-leopard,
+    .sprite-emoji-leo,
+    .sprite-emoji-lemon,
+    .sprite-emoji-leftwards_arrow_with_hook,
+    .sprite-emoji-left_right_arrow,
+    .sprite-emoji-left_luggage,
+    .sprite-emoji-ledger,
+    .sprite-emoji-leaves,
+    .sprite-emoji-laughing,
+    .sprite-emoji-last_quarter_moon_with_face,
+    .sprite-emoji-last_quarter_moon,
+    .sprite-emoji-large_orange_diamond,
+    .sprite-emoji-large_blue_diamond,
+    .sprite-emoji-large_blue_circle,
+    .sprite-emoji-kr,
+    .sprite-emoji-koko,
+    .sprite-emoji-koala,
+    .sprite-emoji-kissing_smiling_eyes,
+    .sprite-emoji-kissing_heart,
+    .sprite-emoji-kissing_face,
+    .sprite-emoji-kissing_closed_eyes,
+    .sprite-emoji-kissing_cat,
+    .sprite-emoji-kissing,
+    .sprite-emoji-kiss,
+    .sprite-emoji-kimono,
+    .sprite-emoji-keycap_ten,
+    .sprite-emoji-key,
+    .sprite-emoji-jp,
+    .sprite-emoji-joy_cat,
+    .sprite-emoji-joy,
+    .sprite-emoji-jeans,
+    .sprite-emoji-japanese_ogre,
+    .sprite-emoji-japanese_goblin,
+    .sprite-emoji-japanese_castle,
+    .sprite-emoji-japan,
+    .sprite-emoji-jack_o_lantern,
+    .sprite-emoji-izakaya_lantern,
+    .sprite-emoji-it,
+    .sprite-emoji-iphone,
+    .sprite-emoji-interrobang,
+    .sprite-emoji-innocent,
+    .sprite-emoji-information_source,
+    .sprite-emoji-information_desk_person,
+    .sprite-emoji-incoming_envelope,
+    .sprite-emoji-inbox_tray,
+    .sprite-emoji-imp,
+    .sprite-emoji-ideograph_advantage,
+    .sprite-emoji-id,
+    .sprite-emoji-icecream,
+    .sprite-emoji-ice_cream,
+    .sprite-emoji-hushed,
+    .sprite-emoji-hurtrealbad,
+    .sprite-emoji-house_with_garden,
+    .sprite-emoji-house,
+    .sprite-emoji-hourglass_flowing_sand,
+    .sprite-emoji-hourglass,
+    .sprite-emoji-hotsprings,
+    .sprite-emoji-hotel,
+    .sprite-emoji-hospital,
+    .sprite-emoji-horse_racing,
+    .sprite-emoji-horse,
+    .sprite-emoji-honeybee,
+    .sprite-emoji-honey_pot,
+    .sprite-emoji-hocho,
+    .sprite-emoji-high_heel,
+    .sprite-emoji-high_brightness,
+    .sprite-emoji-hibiscus,
+    .sprite-emoji-herb,
+    .sprite-emoji-helicopter,
+    .sprite-emoji-heavy_plus_sign,
+    .sprite-emoji-heavy_multiplication_x,
+    .sprite-emoji-heavy_minus_sign,
+    .sprite-emoji-heavy_exclamation_mark,
+    .sprite-emoji-heavy_dollar_sign,
+    .sprite-emoji-heavy_division_sign,
+    .sprite-emoji-heavy_check_mark,
+    .sprite-emoji-hearts,
+    .sprite-emoji-heartpulse,
+    .sprite-emoji-heartbeat,
+    .sprite-emoji-heart_eyes_cat,
+    .sprite-emoji-heart_eyes,
+    .sprite-emoji-heart_decoration,
+    .sprite-emoji-heart,
+    .sprite-emoji-hear_no_evil,
+    .sprite-emoji-headphones,
+    .sprite-emoji-hatching_chick,
+    .sprite-emoji-hatched_chick,
+    .sprite-emoji-hash,
+    .sprite-emoji-hankey,
+    .sprite-emoji-handbag,
+    .sprite-emoji-hand,
+    .sprite-emoji-hamster,
+    .sprite-emoji-hammer,
+    .sprite-emoji-hamburger,
+    .sprite-emoji-haircut,
+    .sprite-emoji-gun,
+    .sprite-emoji-guitar,
+    .sprite-emoji-guardsman,
+    .sprite-emoji-grinning,
+    .sprite-emoji-grin,
+    .sprite-emoji-grimacing,
+    .sprite-emoji-grey_question,
+    .sprite-emoji-grey_exclamation,
+    .sprite-emoji-green_heart,
+    .sprite-emoji-green_book,
+    .sprite-emoji-green_apple,
+    .sprite-emoji-grapes,
+    .sprite-emoji-golf,
+    .sprite-emoji-godmode,
+    .sprite-emoji-goberserk,
+    .sprite-emoji-goat,
+    .sprite-emoji-globe_with_meridians,
+    .sprite-emoji-girl,
+    .sprite-emoji-gift_heart,
+    .sprite-emoji-gift,
+    .sprite-emoji-ghost,
+    .sprite-emoji-gemini,
+    .sprite-emoji-gem,
+    .sprite-emoji-gb,
+    .sprite-emoji-game_die,
+    .sprite-emoji-full_moon_with_face,
+    .sprite-emoji-full_moon,
+    .sprite-emoji-fuelpump,
+    .sprite-emoji-frowning,
+    .sprite-emoji-frog,
+    .sprite-emoji-fries,
+    .sprite-emoji-fried_shrimp,
+    .sprite-emoji-free,
+    .sprite-emoji-fr,
+    .sprite-emoji-four_leaf_clover,
+    .sprite-emoji-four,
+    .sprite-emoji-fountain,
+    .sprite-emoji-fork_and_knife,
+    .sprite-emoji-football,
+    .sprite-emoji-foggy,
+    .sprite-emoji-flushed,
+    .sprite-emoji-flower_playing_cards,
+    .sprite-emoji-floppy_disk,
+    .sprite-emoji-flashlight,
+    .sprite-emoji-flags,
+    .sprite-emoji-five,
+    .sprite-emoji-fist,
+    .sprite-emoji-fishing_pole_and_fish,
+    .sprite-emoji-fish_cake,
+    .sprite-emoji-fish,
+    .sprite-emoji-first_quarter_moon_with_face,
+    .sprite-emoji-first_quarter_moon,
+    .sprite-emoji-fireworks,
+    .sprite-emoji-fire_engine,
+    .sprite-emoji-fire,
+    .sprite-emoji-finnadie,
+    .sprite-emoji-file_folder,
+    .sprite-emoji-ferris_wheel,
+    .sprite-emoji-feet,
+    .sprite-emoji-feelsgood,
+    .sprite-emoji-fearful,
+    .sprite-emoji-fax,
+    .sprite-emoji-fast_forward,
+    .sprite-emoji-family,
+    .sprite-emoji-fallen_leaf,
+    .sprite-emoji-factory,
+    .sprite-emoji-facepunch,
+    .sprite-emoji-eyes,
+    .sprite-emoji-eyeglasses,
+    .sprite-emoji-expressionless,
+    .sprite-emoji-exclamation,
+    .sprite-emoji-evergreen_tree,
+    .sprite-emoji-european_post_office,
+    .sprite-emoji-european_castle,
+    .sprite-emoji-euro,
+    .sprite-emoji-es,
+    .sprite-emoji-envelope,
+    .sprite-emoji-end,
+    .sprite-emoji-email,
+    .sprite-emoji-elephant,
+    .sprite-emoji-electric_plug,
+    .sprite-emoji-eight_spoked_asterisk,
+    .sprite-emoji-eight_pointed_black_star,
+    .sprite-emoji-eight,
+    .sprite-emoji-eggplant,
+    .sprite-emoji-egg,
+    .sprite-emoji-earth_asia,
+    .sprite-emoji-earth_americas,
+    .sprite-emoji-earth_africa,
+    .sprite-emoji-ear_of_rice,
+    .sprite-emoji-ear,
+    .sprite-emoji-e-mail,
+    .sprite-emoji-dvd,
+    .sprite-emoji-droplet,
+    .sprite-emoji-dromedary_camel,
+    .sprite-emoji-dress,
+    .sprite-emoji-dragon_face,
+    .sprite-emoji-dragon,
+    .sprite-emoji-doughnut,
+    .sprite-emoji-door,
+    .sprite-emoji-dolphin,
+    .sprite-emoji-dolls,
+    .sprite-emoji-dollar,
+    .sprite-emoji-dog2,
+    .sprite-emoji-dog,
+    .sprite-emoji-do_not_litter,
+    .sprite-emoji-dizzy_face,
+    .sprite-emoji-dizzy,
+    .sprite-emoji-disappointed,
+    .sprite-emoji-diamonds,
+    .sprite-emoji-diamond_shape_with_a_dot_inside,
+    .sprite-emoji-department_store,
+    .sprite-emoji-deciduous_tree,
+    .sprite-emoji-de,
+    .sprite-emoji-date,
+    .sprite-emoji-dash,
+    .sprite-emoji-dart,
+    .sprite-emoji-dango,
+    .sprite-emoji-dancers,
+    .sprite-emoji-dancer,
+    .sprite-emoji-cyclone,
+    .sprite-emoji-customs,
+    .sprite-emoji-custard,
+    .sprite-emoji-curry,
+    .sprite-emoji-currency_exchange,
+    .sprite-emoji-curly_loop,
+    .sprite-emoji-cupid,
+    .sprite-emoji-crystal_ball,
+    .sprite-emoji-crying_cat_face,
+    .sprite-emoji-cry,
+    .sprite-emoji-crown,
+    .sprite-emoji-crossed_flags,
+    .sprite-emoji-crocodile,
+    .sprite-emoji-credit_card,
+    .sprite-emoji-cow2,
+    .sprite-emoji-cow,
+    .sprite-emoji-couplekiss,
+    .sprite-emoji-couple_with_heart,
+    .sprite-emoji-couple,
+    .sprite-emoji-corn,
+    .sprite-emoji-copyright,
+    .sprite-emoji-cop,
+    .sprite-emoji-cool,
+    .sprite-emoji-cookie,
+    .sprite-emoji-convenience_store,
+    .sprite-emoji-construction_worker,
+    .sprite-emoji-construction,
+    .sprite-emoji-congratulations,
+    .sprite-emoji-confused,
+    .sprite-emoji-confounded,
+    .sprite-emoji-confetti_ball,
+    .sprite-emoji-computer,
+    .sprite-emoji-collision,
+    .sprite-emoji-cold_sweat,
+    .sprite-emoji-coffee,
+    .sprite-emoji-cocktail,
+    .sprite-emoji-cn,
+    .sprite-emoji-clubs,
+    .sprite-emoji-cloud,
+    .sprite-emoji-closed_umbrella,
+    .sprite-emoji-closed_lock_with_key,
+    .sprite-emoji-closed_book,
+    .sprite-emoji-clock930,
+    .sprite-emoji-clock9,
+    .sprite-emoji-clock830,
+    .sprite-emoji-clock8,
+    .sprite-emoji-clock730,
+    .sprite-emoji-clock7,
+    .sprite-emoji-clock630,
+    .sprite-emoji-clock6,
+    .sprite-emoji-clock530,
+    .sprite-emoji-clock5,
+    .sprite-emoji-clock430,
+    .sprite-emoji-clock4,
+    .sprite-emoji-clock330,
+    .sprite-emoji-clock3,
+    .sprite-emoji-clock230,
+    .sprite-emoji-clock2,
+    .sprite-emoji-clock130,
+    .sprite-emoji-clock1230,
+    .sprite-emoji-clock12,
+    .sprite-emoji-clock1130,
+    .sprite-emoji-clock11,
+    .sprite-emoji-clock1030,
+    .sprite-emoji-clock10,
+    .sprite-emoji-clock1,
+    .sprite-emoji-clipboard,
+    .sprite-emoji-clapper,
+    .sprite-emoji-clap,
+    .sprite-emoji-cl,
+    .sprite-emoji-city_sunset,
+    .sprite-emoji-city_sunrise,
+    .sprite-emoji-circus_tent,
+    .sprite-emoji-cinema,
+    .sprite-emoji-church,
+    .sprite-emoji-christmas_tree,
+    .sprite-emoji-chocolate_bar,
+    .sprite-emoji-children_crossing,
+    .sprite-emoji-chicken,
+    .sprite-emoji-chestnut,
+    .sprite-emoji-cherry_blossom,
+    .sprite-emoji-cherries,
+    .sprite-emoji-checkered_flag,
+    .sprite-emoji-chart_with_upwards_trend,
+    .sprite-emoji-chart_with_downwards_trend,
+    .sprite-emoji-chart,
+    .sprite-emoji-cd,
+    .sprite-emoji-cat2,
+    .sprite-emoji-cat,
+    .sprite-emoji-carousel_horse,
+    .sprite-emoji-card_index,
+    .sprite-emoji-car,
+    .sprite-emoji-capricorn,
+    .sprite-emoji-capital_abcd,
+    .sprite-emoji-candy,
+    .sprite-emoji-cancer,
+    .sprite-emoji-camera,
+    .sprite-emoji-camel,
+    .sprite-emoji-calling,
+    .sprite-emoji-calendar,
+    .sprite-emoji-cake,
+    .sprite-emoji-cactus,
+    .sprite-emoji-busts_in_silhouette,
+    .sprite-emoji-bust_in_silhouette,
+    .sprite-emoji-busstop,
+    .sprite-emoji-bus,
+    .sprite-emoji-bullettrain_side,
+    .sprite-emoji-bullettrain_front,
+    .sprite-emoji-bulb,
+    .sprite-emoji-bug,
+    .sprite-emoji-broken_heart,
+    .sprite-emoji-briefcase,
+    .sprite-emoji-bridge_at_night,
+    .sprite-emoji-bride_with_veil,
+    .sprite-emoji-bread,
+    .sprite-emoji-boy,
+    .sprite-emoji-bowtie,
+    .sprite-emoji-bowling,
+    .sprite-emoji-bow,
+    .sprite-emoji-bouquet,
+    .sprite-emoji-boot,
+    .sprite-emoji-boom,
+    .sprite-emoji-books,
+    .sprite-emoji-bookmark_tabs,
+    .sprite-emoji-bookmark,
+    .sprite-emoji-book,
+    .sprite-emoji-bomb,
+    .sprite-emoji-boat,
+    .sprite-emoji-boar,
+    .sprite-emoji-blush,
+    .sprite-emoji-blue_heart,
+    .sprite-emoji-blue_car,
+    .sprite-emoji-blue_book,
+    .sprite-emoji-blowfish,
+    .sprite-emoji-blossom,
+    .sprite-emoji-black_square_button,
+    .sprite-emoji-black_square,
+    .sprite-emoji-black_nib,
+    .sprite-emoji-black_joker,
+    .sprite-emoji-black_circle,
+    .sprite-emoji-birthday,
+    .sprite-emoji-bird,
+    .sprite-emoji-bikini,
+    .sprite-emoji-bike,
+    .sprite-emoji-bicyclist,
+    .sprite-emoji-bento,
+    .sprite-emoji-bell,
+    .sprite-emoji-beginner,
+    .sprite-emoji-beetle,
+    .sprite-emoji-beers,
+    .sprite-emoji-beer,
+    .sprite-emoji-bee,
+    .sprite-emoji-bear,
+    .sprite-emoji-battery,
+    .sprite-emoji-bathtub,
+    .sprite-emoji-bath,
+    .sprite-emoji-basketball,
+    .sprite-emoji-baseball,
+    .sprite-emoji-barber,
+    .sprite-emoji-bar_chart,
+    .sprite-emoji-bank,
+    .sprite-emoji-bangbang,
+    .sprite-emoji-banana,
+    .sprite-emoji-bamboo,
+    .sprite-emoji-ballot_box_with_check,
+    .sprite-emoji-balloon,
+    .sprite-emoji-baggage_claim,
+    .sprite-emoji-baby_symbol,
+    .sprite-emoji-baby_chick,
+    .sprite-emoji-baby_bottle,
+    .sprite-emoji-baby,
+    .sprite-emoji-b,
+    .sprite-emoji-atm,
+    .sprite-emoji-astonished,
+    .sprite-emoji-articulated_lorry,
+    .sprite-emoji-art,
+    .sprite-emoji-arrows_counterclockwise,
+    .sprite-emoji-arrows_clockwise,
+    .sprite-emoji-arrow_upper_right,
+    .sprite-emoji-arrow_upper_left,
+    .sprite-emoji-arrow_up_small,
+    .sprite-emoji-arrow_up_down,
+    .sprite-emoji-arrow_up,
+    .sprite-emoji-arrow_right_hook,
+    .sprite-emoji-arrow_right,
+    .sprite-emoji-arrow_lower_right,
+    .sprite-emoji-arrow_lower_left,
+    .sprite-emoji-arrow_left,
+    .sprite-emoji-arrow_heading_up,
+    .sprite-emoji-arrow_heading_down,
+    .sprite-emoji-arrow_forward,
+    .sprite-emoji-arrow_down_small,
+    .sprite-emoji-arrow_down,
+    .sprite-emoji-arrow_double_up,
+    .sprite-emoji-arrow_double_down,
+    .sprite-emoji-arrow_backward,
+    .sprite-emoji-aries,
+    .sprite-emoji-aquarius,
+    .sprite-emoji-apple,
+    .sprite-emoji-ant,
+    .sprite-emoji-anguished,
+    .sprite-emoji-angry,
+    .sprite-emoji-anger,
+    .sprite-emoji-angel,
+    .sprite-emoji-anchor,
+    .sprite-emoji-ambulance,
+    .sprite-emoji-alien,
+    .sprite-emoji-alarm_clock,
+    .sprite-emoji-airplane,
+    .sprite-emoji-aerial_tramway,
+    .sprite-emoji-accept,
+    .sprite-emoji-abcd,
+    .sprite-emoji-abc,
+    .sprite-emoji-ab,
+    .sprite-emoji-a,
+    .sprite-emoji-8ball,
+    .sprite-emoji-1234,
+    .sprite-emoji-109,
+    .sprite-emoji-100,
+    .sprite-emoji--1,
+    .sprite-emoji-1 {
+                background-image: url('emoji.png');
+                -webkit-background-size: 900px 870px;
+                -moz-background-size: 900px 870px;
+                background-size: 900px 870px;
+            }
+        }

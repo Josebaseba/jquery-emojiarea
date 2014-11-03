@@ -195,11 +195,7 @@
 
   EmojiArea.createIcon = function(group, emoji) {
     var filename = $.emojiarea.icons[group]['icons'][emoji];
-    var path = $.emojiarea.path || '';
-    if (path.length && path.charAt(path.length - 1) !== '/') {
-      path += '/';
-    }
-    return '<img src="' + path + filename + '" alt="' + util.htmlEntities(emoji) + '">';
+    return '<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="sprite-emoji-' + filename + '" alt="' + util.htmlEntities(emoji) + '">';
   };
 
   // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -313,8 +309,8 @@
         if (isBlock && line.length) flush();
 
         if (tagName === 'img') {
-          var alt = node.getAttribute('alt') || '';
-          if (alt) line.push(alt);
+          var img = node.getAttribute('alt') || '';
+          if (img) line.push(img);
           return;
         } else if (tagName === 'br') {
           flush();
@@ -407,10 +403,6 @@
     var html = [];
     var groups = [];
     var options = $.emojiarea.icons;
-    var path = $.emojiarea.path;
-    if (path.length && path.charAt(path.length - 1) !== '/') {
-      path += '/';
-    }
     groups.push('<ul class="group-selector">');
     for (var group in options) {
     groups.push('<a href="#group_' + group + '" class="tab_switch"><li>' + options[group]['name'] + '</li></a>');
