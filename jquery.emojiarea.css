@@ -12,7 +12,7 @@
 .emoji-menu {
 	position: absolute;
 	z-index: 999;
-	width: 180px;
+	width: 161px;
 	margin-left: -100px;
 	padding: 0;
 	overflow: hidden;
@@ -24,7 +24,7 @@
 	max-height: 200px;
 	overflow: hidden;
 	background: #fff;
-	width: 200px;
+	width: 164px;
 	-webkit-overflow-scrolling: touch;
 	overflow: auto;
 	-webkit-border-radius: 3px;
@@ -70,6 +70,7 @@
 }
 
 .emoji-menu .group-selector {
+	padding-left: 0px;
 	position: absolute;
 	list-style-type: none;
 	height: 40px;
@@ -78,6 +79,7 @@
 	width: 100%;
 	background-color: rgb(255,255,255);
 	background-color: rgba(255,255,255, .9);
+	z-index: 10;
 }
 .emoji-menu .group-selector li {
 	height: 15px;
@@ -88,6 +90,7 @@
 	width: 15px;
 }
 .emoji-menu .group-selector a {
+	margin-left: 4px;
 	color: #EB7878;
 	text-decoration: none;
 	border: none;
