@@ -6967,7 +6967,7 @@
     .sprite-emoji-100,
     .sprite-emoji--1,
     .sprite-emoji-1 {
-                background-image: url('emoji.png');
+                background-image: url('emoji_sm.png');
                 -webkit-background-size: 900px 870px;
                 -moz-background-size: 900px 870px;
                 background-size: 900px 870px;
